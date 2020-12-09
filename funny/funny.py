@@ -2,7 +2,7 @@ import requests
 import re
 def download_image(url,i):
     image = requests.get(url=url).content
-    with open(f"{i}.png","wb") as f:
+    with open(f"image/{i}.png","wb") as f:
         f.write(image)
 
 def get_page():
