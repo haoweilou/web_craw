@@ -1,0 +1,100 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://ogp.me/ns/fb#"
+      lang="zh">
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KGJSX9C');</script>
+  <!-- End Google Tag Manager -->
+  <title>澳洲股票概览 – 61澳股资讯平台</title>
+  <meta name="keywords" content="澳股投资,澳洲股票,澳交所股票,分红,排行,澳交所200指数" />
+  <meta property="og:image" content="https://www.61financial.com.au/61logo.png" />
+  <meta property="og:description" content="澳洲股票概览通过热图的颜色和大小来展现澳交所所有上市公司股票的数量和市值，澳洲股票的数量和市值每天在股市收盘后更新一次。 通过点击“公司数量”，图表中的方块区域面积代表行业组别的上市公司数量统计。方块面积越大，该行业的公司数量越多。蓝色则表示每个行业的市值高低。颜色越深，则表示该行业的市值越高。 " />
+  <meta name="description" content="澳洲股票概览通过热图的颜色和大小来展现澳交所所有上市公司股票的数量和市值，澳洲股票的数量和市值每天在股市收盘后更新一次。 通过点击“公司数量”，图表中的方块区域面积代表行业组别的上市公司数量统计。方块面积越大，该行业的公司数量越多。蓝色则表示每个行业的市值高低。颜色越深，则表示该行业的市值越高。 " />
+  <meta name="author" content="61financial">
+  <meta charset="UTF-8">
+  <meta content='width=device-width, initial-scale=1.0' name='viewport' />
+  <link href="https://www.61financial.com.au/favicon.png" rel="icon">
+  <link href="https://www.61financial.com.au/libs/61strap/css/61strap.min.css" rel="stylesheet" />
+  <link href="https://www.61financial.com.au/libs/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+  <link href="https://www.61financial.com.au/manifest.json" rel="manifest" />
+  
+  <!-- For Safari -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <link rel="apple-touch-icon" sizes="152x152" href="https://www.61financial.com.au/icons/apple-icon-152.png">
+  <link rel="apple-touch-icon" sizes="167x167" href="https://www.61financial.com.au/icons/apple-icon-167.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.61financial.com.au/icons/apple-icon-180.png">
+
+  <!-- For IE -->
+  <meta name="msapplication-TitleImage" content="https://www.61financial.com.au/icons/app-icon-144.png" />
+  <meta name="msapplication-TitleColor" content="#000" />
+  
+  
+  
+  <link href="https://www.61financial.com.au/build/client/desktop-f22b3c79ddc6a7c56829.css" rel="stylesheet">
+  
+  <link rel="alternate" href="https://www.61financial.com.au/" hreflang="zh" />
+  <link rel="alternate" href="https://www.61financial.com.au/zh-hans" hreflang="zh-Hans" />
+  <link rel="alternate" href="https://www.61financial.com.au/zh-hant" hreflang="zh-Hant" />
+  <link rel="alternate" href="https://www.61financial.com.au/en-au" hreflang="en-AU" />
+  <meta name="google-site-verification" content="gDAPNrWP7NgYeIypcuafU1O1lWBdsTYzcWVcInxP730" />
+  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/6aac0efdcdbb59d80932b885b/2044594cf70365317e6f22d53.js");</script>
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGJSX9C"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div style="visibility:hidden; width:0px; height:0px"><img src="https://www.61financial.com.au/61logo.png" /></div>
+  <div id="root"><div><div id="prices"><div id="group-nav"><ul><li class="nav-title"><span>Groups</span></li><a href="/zh-hans/prices/all_stocks"><li class="active large"><div class="lazyload-placeholder"></div><span>All Stocks</span></li></a><a href="/zh-hans/prices/hot"><li class=""><div class="lazyload-placeholder"></div><span>HOT</span></li></a><a href="/zh-hans/prices/payment"><li class=""><div class="lazyload-placeholder"></div><span>Payment</span></li></a><a href="/zh-hans/prices/coronavirus"><li class=""><div class="lazyload-placeholder"></div><span>Coronavirus</span></li></a><a href="/zh-hans/prices/sponsored"><li class=""><div class="lazyload-placeholder"></div><span>Sponsored</span><div id="info-icon" class=""><div class="lazyload-placeholder"></div><div style="width:170px" class="info-list chs-list"><div><div id="">该分类属于付费推广。</div></div></div></div></li></a><a href="/zh-hans/prices/etf"><li class=""><div class="lazyload-placeholder"></div><span>ETF</span></li></a><a href="/zh-hans/prices/cannabis"><li class=""><div class="lazyload-placeholder"></div><span>Cannabis</span></li></a><a href="/zh-hans/prices/tech"><li class=""><div class="lazyload-placeholder"></div><span>Tech</span></li></a><a href="/zh-hans/prices/lithium_cobalt"><li class=""><div class="lazyload-placeholder"></div><span>Lithium &amp; Cobalt</span></li></a><a href="/zh-hans/prices/food_beverage"><li class=""><div class="lazyload-placeholder"></div><span>Food &amp; Beverage</span></li></a><a href="/zh-hans/prices/gold_mining"><li class=""><div class="lazyload-placeholder"></div><span>Gold Mining</span></li></a><a href="/zh-hans/prices/resources"><li class=""><div class="lazyload-placeholder"></div><span>Resources</span></li></a><a href="/zh-hans/prices/pharm_bio"><li class=""><div class="lazyload-placeholder"></div><span>Pharm &amp; Bio</span></li></a><a href="/zh-hans/prices/china_content"><li class=""><div class="lazyload-placeholder"></div><span>China Content</span></li></a><a href="/zh-hans/prices/indices"><li class=""><div class="lazyload-placeholder"></div><span>Indices</span></li></a></ul></div><div class="main-content-61"></div></div></div></div>
+  <script src="https://browser.sentry-cdn.com/4.5.3/bundle.min.js" crossorigin="anonymous"></script>
+  <script>
+    Sentry.init({
+      dsn: 'https://e79003464d4a491aa4d509376edf291f@sentry.io/1377284',
+    });
+    window.__INITIAL_STATE__ = {"ads":{},"app":{"notice":{},"platform":"desktop","scrollY":0},"i18n":{"locale":"chs","lang":"zh-hans"},"auth":{"isFetching":false,"isAuthenticated":false,"loginErrors":null,"registerErrors":null,"registerSuccess":false},"user":{"isFetchingUserInfo":false,"getUserInfoErrors":null,"personalInfo":{},"preferences":{},"vipStatus":{"is_vip":0,"is_s708":0},"promotionCode":"","isSubscribingService":false,"services":[],"setPreferencesSuccess":false,"setPreferencesErrors":null,"requestList":[],"isFetchingRequestList":false,"requestListErrors":null,"isSendingResetPasswordLink":false,"isSentResetPasswordLink":false,"sendResetPasswordLinkErrors":null,"resetPasswordSuccess":false,"resetPasswordErrors":null,"reqChsPdfErrors":{"type":null,"msg":null},"isSendingSetEmailLink":false,"resetEmailIsSent":false,"resetEmailErrors":null,"changePasswordSuccess":false,"changePasswordErrors":null,"stockRecommend":[]},"search":{"stocks":[],"hash":null},"live":{"indices":{"data":[]},"news":{"liveStatus":"connecting","isFetching":true,"prevData":[],"prevDate":"","data":[],"date":"","index200":[],"partnerCodes":[]},"stockwatch":{"isFetching":true,"data":[],"tab":"all","filterIdx":-1,"indexData":{}}},"stocks":{"isFetching":false,"errors":null,"currentType":null,"stockData":[],"isLoadingMore":false,"nextPage":1,"currentPage":1},"websocket":{"wsStatus":"connecting"},"stock":{"detailedStock":{"isFetchingTodayMarketData":false,"activeChartGroup":"day","dayData":[],"dayVolumes":[],"lastData":[],"historyData":[],"historyVolumes":[],"stockInfo":{}},"indexInfo":{"isFetching":false,"indices":[],"indexShowAll":false},"companyInfo":{"activeCompanyInfoGroup":"overview","shareholders":[],"sector":"","coacodeMapping":[],"ratiocodeMapping":[],"yearReport":[],"yearCurrency":"","halfYearReport":[],"halfYearCurrency":"","yearRatio":[],"ratioCurrency":"","ratioDate":"","dividends":{"dividend":[],"dividend_yield":null},"isFetchingBeforeTodayMarketNews":false,"marketNews":[],"isLoadingMoreBeforeTodayMarketNews":false,"nextPage":1,"currentPage":1,"stockRecommend":[]},"shorting":{"isFetching":false,"code":null,"date":null,"data":[],"industry_highest":{},"shorts":[],"prices":[],"top_three":[]},"recommend":{"codes":[],"codeData":{}}},"info":{"rankings":{"isFetching":false,"lastUpdated":"","noData":true,"data":{"amplitude":[],"last":[],"marketCap":[],"gains":[],"declines":[],"valueTraded":[],"volume":[],"volumeRatio":[],"continuous_gains":[],"continuous_declines":[]},"activeIndices":{"dayActiveIdx":0,"indexActiveIdx":2,"gicsActiveIdx":0,"lastActiveIdx":0,"marketCapActiveIdx":0,"valueTradedActiveIdx":0},"currentActiveIndices":null,"activeTable":"","filterBar":true,"onlyDashboardData":false},"dividends":{"isFetching":false,"errors":null,"data":[],"showAll":false},"dailyReports":{"isFetching":false,"isLoadingMore":false,"errors":null,"start":0,"hasMore":true,"reports":[]},"otherReports":{"isFetching":false,"isLoadingMore":false,"errors":null,"start":0,"hasMore":true,"reports":[]},"report":{"isFetching":false,"errors":null,"data":{}},"shortSelling":{"top_five":[],"date":"","rankings":[],"singleCodeData":{}},"investorDescription":{"status":null,"errors":null,"investorDescription":{}},"shareholdersByQueryType":{"status":null,"errors":null,"countries":[],"countriesByRegion":{},"industries":[]},"shareholdersGroupByRegion":{"status":null,"errors":null,"shareholdersGroupByRegion":[]},"shareholderHoldingSharesHeldValChges":{"status":null,"errors":null,"shareholderHoldingSharesHeldValChges":[]},"shareholderInvestorsSpecificCountry":{"status":null,"errors":null,"countries":{},"loading":false,"hasMore":true},"industrialHoldingSharesHeldValueChges":{"status":null,"errors":null,"industries":{}},"shareholderInvestorsSpecificIndustry":{"status":null,"errors":null,"industries":{},"hasMore":true,"loading":false},"recentShareholderSharesHeldValChgForList":{"status":null,"errors":null,"recentShareholderSharesHeldValChgForList":{},"loading":false},"shareholdersInvestorInfo":{"status":null,"errors":null,"investors":{}},"ausInvestors":{"status":null,"errors":null,"ausInvestors":{},"loading":false,"hasMore":true},"internationalInvestors":{"status":null,"errors":null,"internationalInvestors":{},"hasMore":true,"loading":false}},"dashboard":{"isFetching":false,"dividendRanking":[],"ipos":[],"shorting":{"date":"","topFive":[]},"industries":[],"announcements":[],"communityFeeds":[],"economicNews":[],"promotionNews":[],"errors":{}},"details":{"shareholdersByStockCode":{"status":null,"errors":null,"shareholdersByStockCode":{}},"top10shareholders":{"status":null,"errors":null,"top10shareholders":{}},"top5buyers":{"status":null,"errors":null,"top5buyers":{}},"top5sellers":{"status":null,"errors":null,"top5sellers":{}},"recentOwnershipActivity":{"status":null,"errors":null,"recentOwnershipActivity":{}},"shareholdersDetailList":{"status":null,"errors":null,"shareholdersDetailList":{},"loading":false,"hasMore":true},"sameIndustryShareholders":{"status":null,"errors":null,"sameIndustryShareholders":{}}},"announcements":{"dataFromSSR":false,"isTradingDay":true,"isFetchingTranslatedMarketNews":false,"isLoadingMoreTranslatedMarketNews":false,"translatedMarketNews":[],"translatedNextPage":null,"currentTranslatedPage":1,"translatedErrors":null,"isFetchingTodayMarketNews":false,"isLoadingMoreTodayMarketNews":false,"todayMarketNews":[],"todayNextPage":null,"currentTodayPage":1,"todayErrors":null,"isFetchingSensitiveMarketNews":false,"isLoadingMoreSensitiveMarketNews":false,"sensitiveMarketNews":[],"sensitiveNextPage":null,"currentSensitivePage":1,"sensitiveErrors":null,"isFetchingLastTradingMarketNews":false,"isLoadingMoreLastTradingMarketNews":false,"lastTradingMarketNews":[],"lastTradingNextPage":null,"currentLastTradingPage":1,"lastTradingErrors":null},"ipo":{"detailedIpo":{"isFetching":false,"ipo":{},"stats":{},"isEndorsed":false,"errors":null},"ipos":{"isFetching":false,"companys":[],"errors":null,"scrollX":0,"codes":[]}},"recentFloats":{"isFetching":false,"data":{},"listType":"monthly","monthlyTablesToggle":{},"monthlyTablesSorting":{},"yearlyTableSorting":{},"errors":null},"institutionDirectory":{"status":null,"errors":null,"institutionSGroupByTagId":null,"institutionDetailS":null,"institutionDetail":{"isLastChunk":false,"currentInstitutionId":1,"currentRowNo":1,"open":false,"website":"","logoUrl":"","companyZh":"","aboutZh":"","servicesZh":"","productsZh":"","companyEn":"","aboutEn":"","servicesEn":"","productsEn":""}},"watchlist":{"isFetching":false,"isWaitingForNews":false,"stocks":[],"stocksCodeMap":{},"stocksWithNews":[],"marketNews":[],"manageMarketNews":[],"errors":null,"aboutToRemove":[],"editMode":false,"groupsManagementData":{"groups":[],"selectedGroupId":0,"openList":false,"openMenu":false,"openAddFavorlistBar":false,"listMode":"select","aboutToRemoveGroup":[],"pageTitleName":"","openSortMode":false}},"myShareholders":{"isFetching":false,"activeGroupIdx":0,"shareholders":[],"watchgroups":[{"id":0,"name":"","list":[]}],"shareholdersGains":{}},"industries":{"isFetchingOverview":false,"overviewErrors":null,"overview":[],"lastUpdated":null,"isFetchingList":false,"listErrors":null,"list":[],"showAll":false,"currentIndustry":null},"bars":{"sixOneBarMenuType":"menu","searchBarActive":false},"services":{"map":{},"service":{},"sales":[]},"payment":{"stripe":{"stripeData":{},"paying":false,"error":null,"done":false},"base":{"order":{},"orders":[],"saleInfo":{},"permanentInfo":{},"pendingServices":[],"history":{"period":{},"permanent":{}}}},"about":{"analytics":{"users":0,"sessions":0,"pageviews":0,"rank_au_alexa":0}},"specificArticle":{"isFetching":false,"article":{"iStockTags":[]}},"vip":{"isFetching":false,"services":[],"benefits":[],"investmentReturnChart":[],"investmentReturnTable":[]},"vipPlacements":{"placements":{"open":[],"close":[]},"articles":[]},"vipSignUp":{"firstName":"","lastName":"","phone":"","verifyDigitaliDFailure":false,"currentStep":1},"vipStockRecommendations":{"watchlist":[],"ipoReports":{},"eventStudyAnalysis":{},"stockReports":{},"iStocksReturnChart":[]},"vipScreener":{"isFetching":false,"screener":[],"periodScreener":[],"reutersIndustryMap":{},"reutersSimpleIndustries":[],"industries":[]},"stockPlacement":{},"stockArticles":{},"insiderTags":{"status":null,"errors":null,"insiderTags":{},"transactionStatusESByStockCode":{},"loading":false},"closePrices":{"status":null,"errors":null,"closePrices":{},"loading":false,"hasMore":true},"crossHoldings":{"status":null,"errors":null,"crossHoldingsByStockCode":{}},"massBuyCodes":{"status":null,"errors":null,"massBuyCodesES":[]},"paymentSubscription":{"subscriptionList":[],"services":[],"records":[]}}
+    window.melbourneTime = {"serverDate":"2020-12-18T07:33:50.159Z","today":"2020-12-18","todayMarketCloseTime":1608267660000,"time0000":1608210000000,"timezoneOffset":11}
+    window.app = {"platform":"desktop","isMobile":false,"locale":"chs","lang":"zh-hans"}
+  </script>
+
+  
+  
+  <script src="https://www.61financial.com.au/build/client/0-f22b3c79ddc6a7c56829.js"></script>
+  
+  
+  <script src="https://www.61financial.com.au/build/client/desktop-f22b3c79ddc6a7c56829.js"></script>
+  
+  <script>
+    (function (W, D, L, UA) {
+      /**
+      * refer to https://gist.github.com/epeli/5384178
+      * @param {string}   src - URL
+      * @param {function} cb
+      * @param {boolean}  isSync
+      */
+      function loadScript(src, cb, isSync) {
+        const s = D.createElement('script');
+        s.async = !isSync;
+        s.src = src;
+        s.onload = cb;
+        D.body.appendChild(s);
+      }
+      const isDebug = (/debug/i).test(L.href); // URL 后加 #debug 便于移动端调试
+      /* 调试模式下引入移动端 Console */
+      if (isDebug) {
+        loadScript('//cdn.jsdelivr.net/npm/eruda', function () {
+          eruda.init();
+        }, true);
+      }
+    })(window, document, location, navigator.userAgent);
+  </script>
+</body>
+
+</html>

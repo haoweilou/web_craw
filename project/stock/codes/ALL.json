@@ -1,0 +1,6517 @@
+{
+    "data": [
+        {
+            "code": "14D"
+        },
+        {
+            "code": "1AD"
+        },
+        {
+            "code": "1AG"
+        },
+        {
+            "code": "1ST"
+        },
+        {
+            "code": "2BE"
+        },
+        {
+            "code": "360"
+        },
+        {
+            "code": "3DA"
+        },
+        {
+            "code": "3DP"
+        },
+        {
+            "code": "3PL"
+        },
+        {
+            "code": "4CE"
+        },
+        {
+            "code": "4DS"
+        },
+        {
+            "code": "4DX"
+        },
+        {
+            "code": "5GN"
+        },
+        {
+            "code": "88E"
+        },
+        {
+            "code": "8CO"
+        },
+        {
+            "code": "8EC"
+        },
+        {
+            "code": "8IH"
+        },
+        {
+            "code": "8VI"
+        },
+        {
+            "code": "9SP"
+        },
+        {
+            "code": "A1G"
+        },
+        {
+            "code": "A1M"
+        },
+        {
+            "code": "A200"
+        },
+        {
+            "code": "A2B"
+        },
+        {
+            "code": "A2M"
+        },
+        {
+            "code": "A3D"
+        },
+        {
+            "code": "A4N"
+        },
+        {
+            "code": "AAA"
+        },
+        {
+            "code": "AAC"
+        },
+        {
+            "code": "AAJ"
+        },
+        {
+            "code": "AAP"
+        },
+        {
+            "code": "AAR"
+        },
+        {
+            "code": "AASF"
+        },
+        {
+            "code": "AAU"
+        },
+        {
+            "code": "ABA"
+        },
+        {
+            "code": "ABC"
+        },
+        {
+            "code": "ABL"
+        },
+        {
+            "code": "ABP"
+        },
+        {
+            "code": "ABR"
+        },
+        {
+            "code": "ABV"
+        },
+        {
+            "code": "ABW"
+        },
+        {
+            "code": "ABX"
+        },
+        {
+            "code": "ABY"
+        },
+        {
+            "code": "AC8"
+        },
+        {
+            "code": "ACB"
+        },
+        {
+            "code": "ACDC"
+        },
+        {
+            "code": "ACF"
+        },
+        {
+            "code": "ACP"
+        },
+        {
+            "code": "ACQ"
+        },
+        {
+            "code": "ACR"
+        },
+        {
+            "code": "ACS"
+        },
+        {
+            "code": "ACU"
+        },
+        {
+            "code": "ACW"
+        },
+        {
+            "code": "AD1"
+        },
+        {
+            "code": "AD8"
+        },
+        {
+            "code": "ADA"
+        },
+        {
+            "code": "ADD"
+        },
+        {
+            "code": "ADH"
+        },
+        {
+            "code": "ADI"
+        },
+        {
+            "code": "ADN"
+        },
+        {
+            "code": "ADO"
+        },
+        {
+            "code": "ADR"
+        },
+        {
+            "code": "ADS"
+        },
+        {
+            "code": "ADT"
+        },
+        {
+            "code": "ADV"
+        },
+        {
+            "code": "ADX"
+        },
+        {
+            "code": "ADY"
+        },
+        {
+            "code": "AEB"
+        },
+        {
+            "code": "AEE"
+        },
+        {
+            "code": "AEF"
+        },
+        {
+            "code": "AEG"
+        },
+        {
+            "code": "AEI"
+        },
+        {
+            "code": "AER"
+        },
+        {
+            "code": "AEV"
+        },
+        {
+            "code": "AFA"
+        },
+        {
+            "code": "AFG"
+        },
+        {
+            "code": "AFI"
+        },
+        {
+            "code": "AFL"
+        },
+        {
+            "code": "AFP"
+        },
+        {
+            "code": "AFR"
+        },
+        {
+            "code": "AFW"
+        },
+        {
+            "code": "AGD"
+        },
+        {
+            "code": "AGE"
+        },
+        {
+            "code": "AGG"
+        },
+        {
+            "code": "AGH"
+        },
+        {
+            "code": "AGI"
+        },
+        {
+            "code": "AGJ"
+        },
+        {
+            "code": "AGL"
+        },
+        {
+            "code": "AGM"
+        },
+        {
+            "code": "AGR"
+        },
+        {
+            "code": "AGS"
+        },
+        {
+            "code": "AGVT"
+        },
+        {
+            "code": "AGX1"
+        },
+        {
+            "code": "AGY"
+        },
+        {
+            "code": "AHC"
+        },
+        {
+            "code": "AHF"
+        },
+        {
+            "code": "AHK"
+        },
+        {
+            "code": "AHN"
+        },
+        {
+            "code": "AHQ"
+        },
+        {
+            "code": "AHX"
+        },
+        {
+            "code": "AHY"
+        },
+        {
+            "code": "AIA"
+        },
+        {
+            "code": "AIB"
+        },
+        {
+            "code": "AIM"
+        },
+        {
+            "code": "AIQ"
+        },
+        {
+            "code": "AIR"
+        },
+        {
+            "code": "AIS"
+        },
+        {
+            "code": "AIV"
+        },
+        {
+            "code": "AIY"
+        },
+        {
+            "code": "AIZ"
+        },
+        {
+            "code": "AJJ"
+        },
+        {
+            "code": "AJL"
+        },
+        {
+            "code": "AJM"
+        },
+        {
+            "code": "AJQ"
+        },
+        {
+            "code": "AJX"
+        },
+        {
+            "code": "AJY"
+        },
+        {
+            "code": "AKG"
+        },
+        {
+            "code": "AKL"
+        },
+        {
+            "code": "AKM"
+        },
+        {
+            "code": "AKN"
+        },
+        {
+            "code": "AKP"
+        },
+        {
+            "code": "AL3"
+        },
+        {
+            "code": "AL8"
+        },
+        {
+            "code": "ALC"
+        },
+        {
+            "code": "ALD"
+        },
+        {
+            "code": "ALF"
+        },
+        {
+            "code": "ALG"
+        },
+        {
+            "code": "ALI"
+        },
+        {
+            "code": "ALK"
+        },
+        {
+            "code": "ALL"
+        },
+        {
+            "code": "ALQ"
+        },
+        {
+            "code": "ALT"
+        },
+        {
+            "code": "ALU"
+        },
+        {
+            "code": "ALX"
+        },
+        {
+            "code": "ALY"
+        },
+        {
+            "code": "AMA"
+        },
+        {
+            "code": "AMC"
+        },
+        {
+            "code": "AMD"
+        },
+        {
+            "code": "AME"
+        },
+        {
+            "code": "AMG"
+        },
+        {
+            "code": "AMH"
+        },
+        {
+            "code": "AMI"
+        },
+        {
+            "code": "AML"
+        },
+        {
+            "code": "AMN"
+        },
+        {
+            "code": "AMO"
+        },
+        {
+            "code": "AMP"
+        },
+        {
+            "code": "AMS"
+        },
+        {
+            "code": "AMT"
+        },
+        {
+            "code": "AMX"
+        },
+        {
+            "code": "ANA"
+        },
+        {
+            "code": "AND"
+        },
+        {
+            "code": "ANG"
+        },
+        {
+            "code": "ANL"
+        },
+        {
+            "code": "ANN"
+        },
+        {
+            "code": "ANO"
+        },
+        {
+            "code": "ANP"
+        },
+        {
+            "code": "ANR"
+        },
+        {
+            "code": "ANW"
+        },
+        {
+            "code": "ANX"
+        },
+        {
+            "code": "ANZ"
+        },
+        {
+            "code": "AO1"
+        },
+        {
+            "code": "AOA"
+        },
+        {
+            "code": "AOF"
+        },
+        {
+            "code": "AON"
+        },
+        {
+            "code": "AOP"
+        },
+        {
+            "code": "AOU"
+        },
+        {
+            "code": "APA"
+        },
+        {
+            "code": "APC"
+        },
+        {
+            "code": "APD"
+        },
+        {
+            "code": "APE"
+        },
+        {
+            "code": "APG"
+        },
+        {
+            "code": "APH"
+        },
+        {
+            "code": "API"
+        },
+        {
+            "code": "APL"
+        },
+        {
+            "code": "APT"
+        },
+        {
+            "code": "APV"
+        },
+        {
+            "code": "APW"
+        },
+        {
+            "code": "APX"
+        },
+        {
+            "code": "APZ"
+        },
+        {
+            "code": "AQC"
+        },
+        {
+            "code": "AQD"
+        },
+        {
+            "code": "AQI"
+        },
+        {
+            "code": "AQR"
+        },
+        {
+            "code": "AQS"
+        },
+        {
+            "code": "AQX"
+        },
+        {
+            "code": "AQZ"
+        },
+        {
+            "code": "AR9"
+        },
+        {
+            "code": "ARA"
+        },
+        {
+            "code": "ARB"
+        },
+        {
+            "code": "ARC"
+        },
+        {
+            "code": "ARD"
+        },
+        {
+            "code": "ARE"
+        },
+        {
+            "code": "ARF"
+        },
+        {
+            "code": "ARG"
+        },
+        {
+            "code": "ARL"
+        },
+        {
+            "code": "ARN"
+        },
+        {
+            "code": "ARO"
+        },
+        {
+            "code": "ARR"
+        },
+        {
+            "code": "ARU"
+        },
+        {
+            "code": "ARV"
+        },
+        {
+            "code": "ARX"
+        },
+        {
+            "code": "AS1"
+        },
+        {
+            "code": "ASB"
+        },
+        {
+            "code": "ASG"
+        },
+        {
+            "code": "ASH"
+        },
+        {
+            "code": "ASIA"
+        },
+        {
+            "code": "ASM"
+        },
+        {
+            "code": "ASN"
+        },
+        {
+            "code": "ASP"
+        },
+        {
+            "code": "ASQ"
+        },
+        {
+            "code": "AST"
+        },
+        {
+            "code": "ASW"
+        },
+        {
+            "code": "ASX"
+        },
+        {
+            "code": "AT1"
+        },
+        {
+            "code": "ATC"
+        },
+        {
+            "code": "ATEC"
+        },
+        {
+            "code": "ATH"
+        },
+        {
+            "code": "ATL"
+        },
+        {
+            "code": "ATM"
+        },
+        {
+            "code": "ATP"
+        },
+        {
+            "code": "ATR"
+        },
+        {
+            "code": "ATS"
+        },
+        {
+            "code": "ATU"
+        },
+        {
+            "code": "ATX"
+        },
+        {
+            "code": "AU1"
+        },
+        {
+            "code": "AUB"
+        },
+        {
+            "code": "AUC"
+        },
+        {
+            "code": "AUDS"
+        },
+        {
+            "code": "AUH"
+        },
+        {
+            "code": "AUI"
+        },
+        {
+            "code": "AUK"
+        },
+        {
+            "code": "AUL"
+        },
+        {
+            "code": "AUMF"
+        },
+        {
+            "code": "AUN"
+        },
+        {
+            "code": "AUP"
+        },
+        {
+            "code": "AUQ"
+        },
+        {
+            "code": "AUR"
+        },
+        {
+            "code": "AUST"
+        },
+        {
+            "code": "AUT"
+        },
+        {
+            "code": "AUZ"
+        },
+        {
+            "code": "AV1"
+        },
+        {
+            "code": "AVA"
+        },
+        {
+            "code": "AVC"
+        },
+        {
+            "code": "AVG"
+        },
+        {
+            "code": "AVH"
+        },
+        {
+            "code": "AVJ"
+        },
+        {
+            "code": "AVL"
+        },
+        {
+            "code": "AVN"
+        },
+        {
+            "code": "AVQ"
+        },
+        {
+            "code": "AVR"
+        },
+        {
+            "code": "AVW"
+        },
+        {
+            "code": "AVZ"
+        },
+        {
+            "code": "AWC"
+        },
+        {
+            "code": "AWN"
+        },
+        {
+            "code": "AWV"
+        },
+        {
+            "code": "AX1"
+        },
+        {
+            "code": "AX8"
+        },
+        {
+            "code": "AXE"
+        },
+        {
+            "code": "AXI"
+        },
+        {
+            "code": "AXT"
+        },
+        {
+            "code": "AYI"
+        },
+        {
+            "code": "AYM"
+        },
+        {
+            "code": "AYS"
+        },
+        {
+            "code": "AZI"
+        },
+        {
+            "code": "AZJ"
+        },
+        {
+            "code": "AZS"
+        },
+        {
+            "code": "AZY"
+        },
+        {
+            "code": "B2Y"
+        },
+        {
+            "code": "BAP"
+        },
+        {
+            "code": "BAR"
+        },
+        {
+            "code": "BAS"
+        },
+        {
+            "code": "BAT"
+        },
+        {
+            "code": "BBC"
+        },
+        {
+            "code": "BBL"
+        },
+        {
+            "code": "BBN"
+        },
+        {
+            "code": "BBOZ"
+        },
+        {
+            "code": "BBUS"
+        },
+        {
+            "code": "BBX"
+        },
+        {
+            "code": "BC8"
+        },
+        {
+            "code": "BCB"
+        },
+        {
+            "code": "BCC"
+        },
+        {
+            "code": "BCI"
+        },
+        {
+            "code": "BCK"
+        },
+        {
+            "code": "BCN"
+        },
+        {
+            "code": "BCT"
+        },
+        {
+            "code": "BD1"
+        },
+        {
+            "code": "BDA"
+        },
+        {
+            "code": "BDC"
+        },
+        {
+            "code": "BDG"
+        },
+        {
+            "code": "BDI"
+        },
+        {
+            "code": "BDM"
+        },
+        {
+            "code": "BEAR"
+        },
+        {
+            "code": "BEE"
+        },
+        {
+            "code": "BEL"
+        },
+        {
+            "code": "BEM"
+        },
+        {
+            "code": "BEN"
+        },
+        {
+            "code": "BET"
+        },
+        {
+            "code": "BFC"
+        },
+        {
+            "code": "BFG"
+        },
+        {
+            "code": "BGA"
+        },
+        {
+            "code": "BGL"
+        },
+        {
+            "code": "BGP"
+        },
+        {
+            "code": "BGT"
+        },
+        {
+            "code": "BHD"
+        },
+        {
+            "code": "BHL"
+        },
+        {
+            "code": "BHP"
+        },
+        {
+            "code": "BID"
+        },
+        {
+            "code": "BILL"
+        },
+        {
+            "code": "BIN"
+        },
+        {
+            "code": "BIQ"
+        },
+        {
+            "code": "BIR"
+        },
+        {
+            "code": "BIS"
+        },
+        {
+            "code": "BIT"
+        },
+        {
+            "code": "BKG"
+        },
+        {
+            "code": "BKI"
+        },
+        {
+            "code": "BKL"
+        },
+        {
+            "code": "BKT"
+        },
+        {
+            "code": "BKW"
+        },
+        {
+            "code": "BKY"
+        },
+        {
+            "code": "BLD"
+        },
+        {
+            "code": "BLG"
+        },
+        {
+            "code": "BLU"
+        },
+        {
+            "code": "BLX"
+        },
+        {
+            "code": "BLY"
+        },
+        {
+            "code": "BLZ"
+        },
+        {
+            "code": "BMG"
+        },
+        {
+            "code": "BMH"
+        },
+        {
+            "code": "BMN"
+        },
+        {
+            "code": "BNDS"
+        },
+        {
+            "code": "BNKS"
+        },
+        {
+            "code": "BNL"
+        },
+        {
+            "code": "BNO"
+        },
+        {
+            "code": "BNR"
+        },
+        {
+            "code": "BOA"
+        },
+        {
+            "code": "BOC"
+        },
+        {
+            "code": "BOE"
+        },
+        {
+            "code": "BOL"
+        },
+        {
+            "code": "BOND"
+        },
+        {
+            "code": "BOQ"
+        },
+        {
+            "code": "BOT"
+        },
+        {
+            "code": "BPH"
+        },
+        {
+            "code": "BPP"
+        },
+        {
+            "code": "BPT"
+        },
+        {
+            "code": "BRB"
+        },
+        {
+            "code": "BRG"
+        },
+        {
+            "code": "BRI"
+        },
+        {
+            "code": "BRK"
+        },
+        {
+            "code": "BRL"
+        },
+        {
+            "code": "BRN"
+        },
+        {
+            "code": "BRU"
+        },
+        {
+            "code": "BRV"
+        },
+        {
+            "code": "BSA"
+        },
+        {
+            "code": "BSE"
+        },
+        {
+            "code": "BSL"
+        },
+        {
+            "code": "BSM"
+        },
+        {
+            "code": "BSP"
+        },
+        {
+            "code": "BSR"
+        },
+        {
+            "code": "BSX"
+        },
+        {
+            "code": "BTC"
+        },
+        {
+            "code": "BTH"
+        },
+        {
+            "code": "BTI"
+        },
+        {
+            "code": "BTR"
+        },
+        {
+            "code": "BUB"
+        },
+        {
+            "code": "BUD"
+        },
+        {
+            "code": "BUG"
+        },
+        {
+            "code": "BUX"
+        },
+        {
+            "code": "BUY"
+        },
+        {
+            "code": "BVS"
+        },
+        {
+            "code": "BWF"
+        },
+        {
+            "code": "BWP"
+        },
+        {
+            "code": "BWR"
+        },
+        {
+            "code": "BWX"
+        },
+        {
+            "code": "BXB"
+        },
+        {
+            "code": "BXN"
+        },
+        {
+            "code": "BYE"
+        },
+        {
+            "code": "BYH"
+        },
+        {
+            "code": "BYI"
+        },
+        {
+            "code": "C6C"
+        },
+        {
+            "code": "CAA"
+        },
+        {
+            "code": "CAD"
+        },
+        {
+            "code": "CAE"
+        },
+        {
+            "code": "CAF"
+        },
+        {
+            "code": "CAG"
+        },
+        {
+            "code": "CAI"
+        },
+        {
+            "code": "CAJ"
+        },
+        {
+            "code": "CAM"
+        },
+        {
+            "code": "CAN"
+        },
+        {
+            "code": "CAP"
+        },
+        {
+            "code": "CAQ"
+        },
+        {
+            "code": "CAR"
+        },
+        {
+            "code": "CAT"
+        },
+        {
+            "code": "CAU"
+        },
+        {
+            "code": "CAV"
+        },
+        {
+            "code": "CAY"
+        },
+        {
+            "code": "CAZ"
+        },
+        {
+            "code": "CBA"
+        },
+        {
+            "code": "CBE"
+        },
+        {
+            "code": "CBR"
+        },
+        {
+            "code": "CBY"
+        },
+        {
+            "code": "CCA"
+        },
+        {
+            "code": "CCE"
+        },
+        {
+            "code": "CCG"
+        },
+        {
+            "code": "CCJ"
+        },
+        {
+            "code": "CCL"
+        },
+        {
+            "code": "CCP"
+        },
+        {
+            "code": "CCR"
+        },
+        {
+            "code": "CCV"
+        },
+        {
+            "code": "CCX"
+        },
+        {
+            "code": "CCZ"
+        },
+        {
+            "code": "CD1"
+        },
+        {
+            "code": "CD2"
+        },
+        {
+            "code": "CD3"
+        },
+        {
+            "code": "CDA"
+        },
+        {
+            "code": "CDD"
+        },
+        {
+            "code": "CDH"
+        },
+        {
+            "code": "CDM"
+        },
+        {
+            "code": "CDP"
+        },
+        {
+            "code": "CDT"
+        },
+        {
+            "code": "CDV"
+        },
+        {
+            "code": "CDX"
+        },
+        {
+            "code": "CDY"
+        },
+        {
+            "code": "CE1"
+        },
+        {
+            "code": "CEL"
+        },
+        {
+            "code": "CEN"
+        },
+        {
+            "code": "CETF"
+        },
+        {
+            "code": "CFO"
+        },
+        {
+            "code": "CG1"
+        },
+        {
+            "code": "CGA"
+        },
+        {
+            "code": "CGB"
+        },
+        {
+            "code": "CGC"
+        },
+        {
+            "code": "CGF"
+        },
+        {
+            "code": "CGL"
+        },
+        {
+            "code": "CGM"
+        },
+        {
+            "code": "CGN"
+        },
+        {
+            "code": "CGO"
+        },
+        {
+            "code": "CGS"
+        },
+        {
+            "code": "CHC"
+        },
+        {
+            "code": "CHK"
+        },
+        {
+            "code": "CHN"
+        },
+        {
+            "code": "CHZ"
+        },
+        {
+            "code": "CI1"
+        },
+        {
+            "code": "CIA"
+        },
+        {
+            "code": "CIE"
+        },
+        {
+            "code": "CII"
+        },
+        {
+            "code": "CIM"
+        },
+        {
+            "code": "CIN"
+        },
+        {
+            "code": "CIO"
+        },
+        {
+            "code": "CIP"
+        },
+        {
+            "code": "CIW"
+        },
+        {
+            "code": "CKA"
+        },
+        {
+            "code": "CKF"
+        },
+        {
+            "code": "CL1"
+        },
+        {
+            "code": "CL8"
+        },
+        {
+            "code": "CLA"
+        },
+        {
+            "code": "CLB"
+        },
+        {
+            "code": "CLE"
+        },
+        {
+            "code": "CLF"
+        },
+        {
+            "code": "CLH"
+        },
+        {
+            "code": "CLI"
+        },
+        {
+            "code": "CLQ"
+        },
+        {
+            "code": "CLT"
+        },
+        {
+            "code": "CLU"
+        },
+        {
+            "code": "CLV"
+        },
+        {
+            "code": "CLW"
+        },
+        {
+            "code": "CLX"
+        },
+        {
+            "code": "CLZ"
+        },
+        {
+            "code": "CM8"
+        },
+        {
+            "code": "CMC"
+        },
+        {
+            "code": "CMD"
+        },
+        {
+            "code": "CML"
+        },
+        {
+            "code": "CMM"
+        },
+        {
+            "code": "CMP"
+        },
+        {
+            "code": "CMW"
+        },
+        {
+            "code": "CNB"
+        },
+        {
+            "code": "CNEW"
+        },
+        {
+            "code": "CNI"
+        },
+        {
+            "code": "CNJ"
+        },
+        {
+            "code": "CNL"
+        },
+        {
+            "code": "CNU"
+        },
+        {
+            "code": "CNW"
+        },
+        {
+            "code": "COB"
+        },
+        {
+            "code": "COD"
+        },
+        {
+            "code": "COE"
+        },
+        {
+            "code": "COF"
+        },
+        {
+            "code": "COG"
+        },
+        {
+            "code": "COH"
+        },
+        {
+            "code": "COI"
+        },
+        {
+            "code": "COL"
+        },
+        {
+            "code": "COO"
+        },
+        {
+            "code": "CORE"
+        },
+        {
+            "code": "COS"
+        },
+        {
+            "code": "COY"
+        },
+        {
+            "code": "CP1"
+        },
+        {
+            "code": "CPH"
+        },
+        {
+            "code": "CPN"
+        },
+        {
+            "code": "CPT"
+        },
+        {
+            "code": "CPU"
+        },
+        {
+            "code": "CPV"
+        },
+        {
+            "code": "CQE"
+        },
+        {
+            "code": "CQR"
+        },
+        {
+            "code": "CR1"
+        },
+        {
+            "code": "CRB"
+        },
+        {
+            "code": "CRED"
+        },
+        {
+            "code": "CRL"
+        },
+        {
+            "code": "CRM"
+        },
+        {
+            "code": "CRN"
+        },
+        {
+            "code": "CRO"
+        },
+        {
+            "code": "CRS"
+        },
+        {
+            "code": "CSD"
+        },
+        {
+            "code": "CSE"
+        },
+        {
+            "code": "CSL"
+        },
+        {
+            "code": "CSR"
+        },
+        {
+            "code": "CSS"
+        },
+        {
+            "code": "CST"
+        },
+        {
+            "code": "CSX"
+        },
+        {
+            "code": "CT1"
+        },
+        {
+            "code": "CTD"
+        },
+        {
+            "code": "CTE"
+        },
+        {
+            "code": "CTM"
+        },
+        {
+            "code": "CTO"
+        },
+        {
+            "code": "CTP"
+        },
+        {
+            "code": "CUE"
+        },
+        {
+            "code": "CUL"
+        },
+        {
+            "code": "CUP"
+        },
+        {
+            "code": "CURE"
+        },
+        {
+            "code": "CUV"
+        },
+        {
+            "code": "CV1"
+        },
+        {
+            "code": "CVC"
+        },
+        {
+            "code": "CVF"
+        },
+        {
+            "code": "CVL"
+        },
+        {
+            "code": "CVN"
+        },
+        {
+            "code": "CVS"
+        },
+        {
+            "code": "CVV"
+        },
+        {
+            "code": "CVW"
+        },
+        {
+            "code": "CWL"
+        },
+        {
+            "code": "CWN"
+        },
+        {
+            "code": "CWP"
+        },
+        {
+            "code": "CWX"
+        },
+        {
+            "code": "CWY"
+        },
+        {
+            "code": "CWZ"
+        },
+        {
+            "code": "CXL"
+        },
+        {
+            "code": "CXM"
+        },
+        {
+            "code": "CXO"
+        },
+        {
+            "code": "CXU"
+        },
+        {
+            "code": "CXX"
+        },
+        {
+            "code": "CXZ"
+        },
+        {
+            "code": "CY5"
+        },
+        {
+            "code": "CYC"
+        },
+        {
+            "code": "CYG"
+        },
+        {
+            "code": "CYL"
+        },
+        {
+            "code": "CYM"
+        },
+        {
+            "code": "CYP"
+        },
+        {
+            "code": "CYQ"
+        },
+        {
+            "code": "CZN"
+        },
+        {
+            "code": "CZR"
+        },
+        {
+            "code": "D2O"
+        },
+        {
+            "code": "DAF"
+        },
+        {
+            "code": "DAU"
+        },
+        {
+            "code": "DAV"
+        },
+        {
+            "code": "DBBF"
+        },
+        {
+            "code": "DBF"
+        },
+        {
+            "code": "DBI"
+        },
+        {
+            "code": "DCC"
+        },
+        {
+            "code": "DCG"
+        },
+        {
+            "code": "DCL"
+        },
+        {
+            "code": "DCN"
+        },
+        {
+            "code": "DCX"
+        },
+        {
+            "code": "DDB"
+        },
+        {
+            "code": "DDD"
+        },
+        {
+            "code": "DDR"
+        },
+        {
+            "code": "DDT"
+        },
+        {
+            "code": "DEG"
+        },
+        {
+            "code": "DEM"
+        },
+        {
+            "code": "DEV"
+        },
+        {
+            "code": "DEX"
+        },
+        {
+            "code": "DGGF"
+        },
+        {
+            "code": "DGH"
+        },
+        {
+            "code": "DGO"
+        },
+        {
+            "code": "DGR"
+        },
+        {
+            "code": "DHG"
+        },
+        {
+            "code": "DHHF"
+        },
+        {
+            "code": "DJRE"
+        },
+        {
+            "code": "DJW"
+        },
+        {
+            "code": "DKM"
+        },
+        {
+            "code": "DLC"
+        },
+        {
+            "code": "DLT"
+        },
+        {
+            "code": "DMC"
+        },
+        {
+            "code": "DME"
+        },
+        {
+            "code": "DMG"
+        },
+        {
+            "code": "DMKT"
+        },
+        {
+            "code": "DMP"
+        },
+        {
+            "code": "DNA"
+        },
+        {
+            "code": "DNK"
+        },
+        {
+            "code": "DOR"
+        },
+        {
+            "code": "DOU"
+        },
+        {
+            "code": "DOW"
+        },
+        {
+            "code": "DRE"
+        },
+        {
+            "code": "DRO"
+        },
+        {
+            "code": "DRR"
+        },
+        {
+            "code": "DRUG"
+        },
+        {
+            "code": "DRX"
+        },
+        {
+            "code": "DSE"
+        },
+        {
+            "code": "DSK"
+        },
+        {
+            "code": "DTC"
+        },
+        {
+            "code": "DTI"
+        },
+        {
+            "code": "DTL"
+        },
+        {
+            "code": "DTM"
+        },
+        {
+            "code": "DTR"
+        },
+        {
+            "code": "DTS"
+        },
+        {
+            "code": "DTZ"
+        },
+        {
+            "code": "DUB"
+        },
+        {
+            "code": "DUG"
+        },
+        {
+            "code": "DUI"
+        },
+        {
+            "code": "DUR"
+        },
+        {
+            "code": "DVL"
+        },
+        {
+            "code": "DVN"
+        },
+        {
+            "code": "DW8"
+        },
+        {
+            "code": "DWS"
+        },
+        {
+            "code": "DXB"
+        },
+        {
+            "code": "DXN"
+        },
+        {
+            "code": "DXS"
+        },
+        {
+            "code": "DYL"
+        },
+        {
+            "code": "DZZF"
+        },
+        {
+            "code": "E200"
+        },
+        {
+            "code": "E25"
+        },
+        {
+            "code": "E2E"
+        },
+        {
+            "code": "E2M"
+        },
+        {
+            "code": "EAF"
+        },
+        {
+            "code": "EAI"
+        },
+        {
+            "code": "EAS"
+        },
+        {
+            "code": "EAX"
+        },
+        {
+            "code": "EBG"
+        },
+        {
+            "code": "EBND"
+        },
+        {
+            "code": "EBO"
+        },
+        {
+            "code": "ECF"
+        },
+        {
+            "code": "ECG"
+        },
+        {
+            "code": "ECL"
+        },
+        {
+            "code": "ECP"
+        },
+        {
+            "code": "ECS"
+        },
+        {
+            "code": "ECT"
+        },
+        {
+            "code": "ECX"
+        },
+        {
+            "code": "EDC"
+        },
+        {
+            "code": "EDE"
+        },
+        {
+            "code": "EEG"
+        },
+        {
+            "code": "EER"
+        },
+        {
+            "code": "EEU"
+        },
+        {
+            "code": "EFE"
+        },
+        {
+            "code": "EFF"
+        },
+        {
+            "code": "EGD"
+        },
+        {
+            "code": "EGF"
+        },
+        {
+            "code": "EGG"
+        },
+        {
+            "code": "EGH"
+        },
+        {
+            "code": "EGL"
+        },
+        {
+            "code": "EGN"
+        },
+        {
+            "code": "EGR"
+        },
+        {
+            "code": "EGY"
+        },
+        {
+            "code": "EHE"
+        },
+        {
+            "code": "EHH"
+        },
+        {
+            "code": "EHL"
+        },
+        {
+            "code": "EIGA"
+        },
+        {
+            "code": "EINC"
+        },
+        {
+            "code": "ELD"
+        },
+        {
+            "code": "ELE"
+        },
+        {
+            "code": "ELO"
+        },
+        {
+            "code": "ELS"
+        },
+        {
+            "code": "ELT"
+        },
+        {
+            "code": "EM1"
+        },
+        {
+            "code": "EM2"
+        },
+        {
+            "code": "EMB"
+        },
+        {
+            "code": "EMD"
+        },
+        {
+            "code": "EME"
+        },
+        {
+            "code": "EMH"
+        },
+        {
+            "code": "EMKT"
+        },
+        {
+            "code": "EML"
+        },
+        {
+            "code": "EMMG"
+        },
+        {
+            "code": "EMN"
+        },
+        {
+            "code": "EMP"
+        },
+        {
+            "code": "EMR"
+        },
+        {
+            "code": "EMT"
+        },
+        {
+            "code": "EMU"
+        },
+        {
+            "code": "EMV"
+        },
+        {
+            "code": "EN1"
+        },
+        {
+            "code": "ENA"
+        },
+        {
+            "code": "ENN"
+        },
+        {
+            "code": "ENR"
+        },
+        {
+            "code": "ENT"
+        },
+        {
+            "code": "ENV"
+        },
+        {
+            "code": "ENX"
+        },
+        {
+            "code": "EOF"
+        },
+        {
+            "code": "EOL"
+        },
+        {
+            "code": "EOS"
+        },
+        {
+            "code": "EP1"
+        },
+        {
+            "code": "EPD"
+        },
+        {
+            "code": "EPM"
+        },
+        {
+            "code": "EPY"
+        },
+        {
+            "code": "EQE"
+        },
+        {
+            "code": "EQR"
+        },
+        {
+            "code": "EQT"
+        },
+        {
+            "code": "EQX"
+        },
+        {
+            "code": "ERA"
+        },
+        {
+            "code": "ERF"
+        },
+        {
+            "code": "ERG"
+        },
+        {
+            "code": "ERL"
+        },
+        {
+            "code": "ERM"
+        },
+        {
+            "code": "ERW"
+        },
+        {
+            "code": "ESE"
+        },
+        {
+            "code": "ESGI"
+        },
+        {
+            "code": "ESH"
+        },
+        {
+            "code": "ESK"
+        },
+        {
+            "code": "ESR"
+        },
+        {
+            "code": "ESS"
+        },
+        {
+            "code": "ESTX"
+        },
+        {
+            "code": "ETHI"
+        },
+        {
+            "code": "ETPMAG"
+        },
+        {
+            "code": "ETPMPD"
+        },
+        {
+            "code": "ETPMPM"
+        },
+        {
+            "code": "ETPMPT"
+        },
+        {
+            "code": "EUC"
+        },
+        {
+            "code": "EUR"
+        },
+        {
+            "code": "EVE"
+        },
+        {
+            "code": "EVN"
+        },
+        {
+            "code": "EVO"
+        },
+        {
+            "code": "EVS"
+        },
+        {
+            "code": "EVT"
+        },
+        {
+            "code": "EVZ"
+        },
+        {
+            "code": "EWC"
+        },
+        {
+            "code": "EX1"
+        },
+        {
+            "code": "EX20"
+        },
+        {
+            "code": "EXL"
+        },
+        {
+            "code": "EXO"
+        },
+        {
+            "code": "EXP"
+        },
+        {
+            "code": "EXR"
+        },
+        {
+            "code": "EYE"
+        },
+        {
+            "code": "EZL"
+        },
+        {
+            "code": "F100"
+        },
+        {
+            "code": "FAIR"
+        },
+        {
+            "code": "FANG"
+        },
+        {
+            "code": "FAR"
+        },
+        {
+            "code": "FAU"
+        },
+        {
+            "code": "FBR"
+        },
+        {
+            "code": "FBU"
+        },
+        {
+            "code": "FCL"
+        },
+        {
+            "code": "FCT"
+        },
+        {
+            "code": "FDM"
+        },
+        {
+            "code": "FDV"
+        },
+        {
+            "code": "FDX"
+        },
+        {
+            "code": "FE8"
+        },
+        {
+            "code": "FEI"
+        },
+        {
+            "code": "FEL"
+        },
+        {
+            "code": "FEMX"
+        },
+        {
+            "code": "FEX"
+        },
+        {
+            "code": "FFC"
+        },
+        {
+            "code": "FFF"
+        },
+        {
+            "code": "FFG"
+        },
+        {
+            "code": "FFI"
+        },
+        {
+            "code": "FFR"
+        },
+        {
+            "code": "FFT"
+        },
+        {
+            "code": "FFX"
+        },
+        {
+            "code": "FGG"
+        },
+        {
+            "code": "FGL"
+        },
+        {
+            "code": "FGO"
+        },
+        {
+            "code": "FGR"
+        },
+        {
+            "code": "FGX"
+        },
+        {
+            "code": "FHS"
+        },
+        {
+            "code": "FID"
+        },
+        {
+            "code": "FIJ"
+        },
+        {
+            "code": "FIN"
+        },
+        {
+            "code": "FLC"
+        },
+        {
+            "code": "FLN"
+        },
+        {
+            "code": "FLOT"
+        },
+        {
+            "code": "FLT"
+        },
+        {
+            "code": "FMG"
+        },
+        {
+            "code": "FML"
+        },
+        {
+            "code": "FMS"
+        },
+        {
+            "code": "FNP"
+        },
+        {
+            "code": "FNT"
+        },
+        {
+            "code": "FNX"
+        },
+        {
+            "code": "FOD"
+        },
+        {
+            "code": "FOOD"
+        },
+        {
+            "code": "FOR"
+        },
+        {
+            "code": "FPC"
+        },
+        {
+            "code": "FPH"
+        },
+        {
+            "code": "FPL"
+        },
+        {
+            "code": "FPP"
+        },
+        {
+            "code": "FRI"
+        },
+        {
+            "code": "FRM"
+        },
+        {
+            "code": "FRX"
+        },
+        {
+            "code": "FSA"
+        },
+        {
+            "code": "FSF"
+        },
+        {
+            "code": "FSG"
+        },
+        {
+            "code": "FSI"
+        },
+        {
+            "code": "FTC"
+        },
+        {
+            "code": "FTT"
+        },
+        {
+            "code": "FTZ"
+        },
+        {
+            "code": "FUEL"
+        },
+        {
+            "code": "FUN"
+        },
+        {
+            "code": "FWD"
+        },
+        {
+            "code": "FYI"
+        },
+        {
+            "code": "FZO"
+        },
+        {
+            "code": "FZR"
+        },
+        {
+            "code": "G1A"
+        },
+        {
+            "code": "G88"
+        },
+        {
+            "code": "GAL"
+        },
+        {
+            "code": "GAP"
+        },
+        {
+            "code": "GAS"
+        },
+        {
+            "code": "GBE"
+        },
+        {
+            "code": "GBND"
+        },
+        {
+            "code": "GBR"
+        },
+        {
+            "code": "GBZ"
+        },
+        {
+            "code": "GC1"
+        },
+        {
+            "code": "GCI"
+        },
+        {
+            "code": "GCR"
+        },
+        {
+            "code": "GCY"
+        },
+        {
+            "code": "GDA"
+        },
+        {
+            "code": "GDF"
+        },
+        {
+            "code": "GDG"
+        },
+        {
+            "code": "GDI"
+        },
+        {
+            "code": "GDX"
+        },
+        {
+            "code": "GEAR"
+        },
+        {
+            "code": "GED"
+        },
+        {
+            "code": "GEM"
+        },
+        {
+            "code": "GES"
+        },
+        {
+            "code": "GEV"
+        },
+        {
+            "code": "GFL"
+        },
+        {
+            "code": "GGE"
+        },
+        {
+            "code": "GGG"
+        },
+        {
+            "code": "GGOV"
+        },
+        {
+            "code": "GGUS"
+        },
+        {
+            "code": "GGX"
+        },
+        {
+            "code": "GIB"
+        },
+        {
+            "code": "GLA"
+        },
+        {
+            "code": "GLB"
+        },
+        {
+            "code": "GLE"
+        },
+        {
+            "code": "GLH"
+        },
+        {
+            "code": "GLIN"
+        },
+        {
+            "code": "GLL"
+        },
+        {
+            "code": "GLN"
+        },
+        {
+            "code": "GLV"
+        },
+        {
+            "code": "GMA"
+        },
+        {
+            "code": "GMC"
+        },
+        {
+            "code": "GMD"
+        },
+        {
+            "code": "GME"
+        },
+        {
+            "code": "GMG"
+        },
+        {
+            "code": "GML"
+        },
+        {
+            "code": "GMN"
+        },
+        {
+            "code": "GMR"
+        },
+        {
+            "code": "GNC"
+        },
+        {
+            "code": "GNE"
+        },
+        {
+            "code": "GNG"
+        },
+        {
+            "code": "GNM"
+        },
+        {
+            "code": "GNP"
+        },
+        {
+            "code": "GNX"
+        },
+        {
+            "code": "GO2"
+        },
+        {
+            "code": "GOLD"
+        },
+        {
+            "code": "GOO"
+        },
+        {
+            "code": "GOR"
+        },
+        {
+            "code": "GOVT"
+        },
+        {
+            "code": "GOW"
+        },
+        {
+            "code": "GOZ"
+        },
+        {
+            "code": "GPR"
+        },
+        {
+            "code": "GPS"
+        },
+        {
+            "code": "GPT"
+        },
+        {
+            "code": "GRL"
+        },
+        {
+            "code": "GRNV"
+        },
+        {
+            "code": "GROW"
+        },
+        {
+            "code": "GRR"
+        },
+        {
+            "code": "GRV"
+        },
+        {
+            "code": "GSM"
+        },
+        {
+            "code": "GSN"
+        },
+        {
+            "code": "GSS"
+        },
+        {
+            "code": "GSW"
+        },
+        {
+            "code": "GTE"
+        },
+        {
+            "code": "GTG"
+        },
+        {
+            "code": "GTK"
+        },
+        {
+            "code": "GTN"
+        },
+        {
+            "code": "GTR"
+        },
+        {
+            "code": "GUD"
+        },
+        {
+            "code": "GUL"
+        },
+        {
+            "code": "GVF"
+        },
+        {
+            "code": "GWA"
+        },
+        {
+            "code": "GWR"
+        },
+        {
+            "code": "GXY"
+        },
+        {
+            "code": "HACK"
+        },
+        {
+            "code": "HAS"
+        },
+        {
+            "code": "HAV"
+        },
+        {
+            "code": "HAW"
+        },
+        {
+            "code": "HBRD"
+        },
+        {
+            "code": "HCD"
+        },
+        {
+            "code": "HCH"
+        },
+        {
+            "code": "HCT"
+        },
+        {
+            "code": "HDN"
+        },
+        {
+            "code": "HE8"
+        },
+        {
+            "code": "HETH"
+        },
+        {
+            "code": "HEUR"
+        },
+        {
+            "code": "HFR"
+        },
+        {
+            "code": "HFY"
+        },
+        {
+            "code": "HGH"
+        },
+        {
+            "code": "HGM"
+        },
+        {
+            "code": "HGO"
+        },
+        {
+            "code": "HHM"
+        },
+        {
+            "code": "HHY"
+        },
+        {
+            "code": "HIL"
+        },
+        {
+            "code": "HIT"
+        },
+        {
+            "code": "HJPN"
+        },
+        {
+            "code": "HLA"
+        },
+        {
+            "code": "HLO"
+        },
+        {
+            "code": "HLS"
+        },
+        {
+            "code": "HLX"
+        },
+        {
+            "code": "HM1"
+        },
+        {
+            "code": "HMC"
+        },
+        {
+            "code": "HMD"
+        },
+        {
+            "code": "HMX"
+        },
+        {
+            "code": "HMY"
+        },
+        {
+            "code": "HNDQ"
+        },
+        {
+            "code": "HNG"
+        },
+        {
+            "code": "HNR"
+        },
+        {
+            "code": "HOR"
+        },
+        {
+            "code": "HPG"
+        },
+        {
+            "code": "HPI"
+        },
+        {
+            "code": "HPR"
+        },
+        {
+            "code": "HQLT"
+        },
+        {
+            "code": "HRL"
+        },
+        {
+            "code": "HRN"
+        },
+        {
+            "code": "HRR"
+        },
+        {
+            "code": "HRZ"
+        },
+        {
+            "code": "HSC"
+        },
+        {
+            "code": "HSN"
+        },
+        {
+            "code": "HT1"
+        },
+        {
+            "code": "HT8"
+        },
+        {
+            "code": "HTA"
+        },
+        {
+            "code": "HTG"
+        },
+        {
+            "code": "HUB"
+        },
+        {
+            "code": "HUM"
+        },
+        {
+            "code": "HUO"
+        },
+        {
+            "code": "HVM"
+        },
+        {
+            "code": "HVN"
+        },
+        {
+            "code": "HVST"
+        },
+        {
+            "code": "HWH"
+        },
+        {
+            "code": "HWK"
+        },
+        {
+            "code": "HXG"
+        },
+        {
+            "code": "HXL"
+        },
+        {
+            "code": "HYD"
+        },
+        {
+            "code": "HZN"
+        },
+        {
+            "code": "HZR"
+        },
+        {
+            "code": "IAA"
+        },
+        {
+            "code": "IAF"
+        },
+        {
+            "code": "IAG"
+        },
+        {
+            "code": "IAP"
+        },
+        {
+            "code": "IBC"
+        },
+        {
+            "code": "IBG"
+        },
+        {
+            "code": "IBX"
+        },
+        {
+            "code": "ICE"
+        },
+        {
+            "code": "ICG"
+        },
+        {
+            "code": "ICI"
+        },
+        {
+            "code": "ICN"
+        },
+        {
+            "code": "ICOR"
+        },
+        {
+            "code": "ICQ"
+        },
+        {
+            "code": "ICR"
+        },
+        {
+            "code": "ICS"
+        },
+        {
+            "code": "ICT"
+        },
+        {
+            "code": "ID8"
+        },
+        {
+            "code": "IDA"
+        },
+        {
+            "code": "IDT"
+        },
+        {
+            "code": "IDX"
+        },
+        {
+            "code": "IDZ"
+        },
+        {
+            "code": "IEC"
+        },
+        {
+            "code": "IEL"
+        },
+        {
+            "code": "IEM"
+        },
+        {
+            "code": "IEQ"
+        },
+        {
+            "code": "IEU"
+        },
+        {
+            "code": "IFL"
+        },
+        {
+            "code": "IFM"
+        },
+        {
+            "code": "IFRA"
+        },
+        {
+            "code": "IFT"
+        },
+        {
+            "code": "IGB"
+        },
+        {
+            "code": "IGE"
+        },
+        {
+            "code": "IGL"
+        },
+        {
+            "code": "IGN"
+        },
+        {
+            "code": "IGO"
+        },
+        {
+            "code": "IHCB"
+        },
+        {
+            "code": "IHD"
+        },
+        {
+            "code": "IHEB"
+        },
+        {
+            "code": "IHHY"
+        },
+        {
+            "code": "IHL"
+        },
+        {
+            "code": "IHOO"
+        },
+        {
+            "code": "IHR"
+        },
+        {
+            "code": "IHVV"
+        },
+        {
+            "code": "IHWL"
+        },
+        {
+            "code": "IIND"
+        },
+        {
+            "code": "IJH"
+        },
+        {
+            "code": "IJP"
+        },
+        {
+            "code": "IJR"
+        },
+        {
+            "code": "IKE"
+        },
+        {
+            "code": "IKO"
+        },
+        {
+            "code": "IKW"
+        },
+        {
+            "code": "ILB"
+        },
+        {
+            "code": "ILC"
+        },
+        {
+            "code": "ILU"
+        },
+        {
+            "code": "IMA"
+        },
+        {
+            "code": "IMC"
+        },
+        {
+            "code": "IMD"
+        },
+        {
+            "code": "IME"
+        },
+        {
+            "code": "IMM"
+        },
+        {
+            "code": "IMPQ"
+        },
+        {
+            "code": "IMR"
+        },
+        {
+            "code": "IMS"
+        },
+        {
+            "code": "IMU"
+        },
+        {
+            "code": "INA"
+        },
+        {
+            "code": "INCM"
+        },
+        {
+            "code": "INES"
+        },
+        {
+            "code": "INF"
+        },
+        {
+            "code": "ING"
+        },
+        {
+            "code": "INIF"
+        },
+        {
+            "code": "INP"
+        },
+        {
+            "code": "INR"
+        },
+        {
+            "code": "INV"
+        },
+        {
+            "code": "IOD"
+        },
+        {
+            "code": "IOO"
+        },
+        {
+            "code": "IOU"
+        },
+        {
+            "code": "IOZ"
+        },
+        {
+            "code": "IP1"
+        },
+        {
+            "code": "IPB"
+        },
+        {
+            "code": "IPC"
+        },
+        {
+            "code": "IPD"
+        },
+        {
+            "code": "IPH"
+        },
+        {
+            "code": "IPL"
+        },
+        {
+            "code": "IPT"
+        },
+        {
+            "code": "IQ3"
+        },
+        {
+            "code": "IRD"
+        },
+        {
+            "code": "IRE"
+        },
+        {
+            "code": "IRI"
+        },
+        {
+            "code": "IS3"
+        },
+        {
+            "code": "ISD"
+        },
+        {
+            "code": "ISEC"
+        },
+        {
+            "code": "ISO"
+        },
+        {
+            "code": "ISU"
+        },
+        {
+            "code": "ISX"
+        },
+        {
+            "code": "ITG"
+        },
+        {
+            "code": "IVC"
+        },
+        {
+            "code": "IVE"
+        },
+        {
+            "code": "IVO"
+        },
+        {
+            "code": "IVQ"
+        },
+        {
+            "code": "IVR"
+        },
+        {
+            "code": "IVT"
+        },
+        {
+            "code": "IVV"
+        },
+        {
+            "code": "IVX"
+        },
+        {
+            "code": "IVZ"
+        },
+        {
+            "code": "IWLD"
+        },
+        {
+            "code": "IXC"
+        },
+        {
+            "code": "IXI"
+        },
+        {
+            "code": "IXJ"
+        },
+        {
+            "code": "IXR"
+        },
+        {
+            "code": "IXU"
+        },
+        {
+            "code": "IYLD"
+        },
+        {
+            "code": "IZZ"
+        },
+        {
+            "code": "JAL"
+        },
+        {
+            "code": "JAN"
+        },
+        {
+            "code": "JAT"
+        },
+        {
+            "code": "JAY"
+        },
+        {
+            "code": "JBH"
+        },
+        {
+            "code": "JCS"
+        },
+        {
+            "code": "JDR"
+        },
+        {
+            "code": "JHC"
+        },
+        {
+            "code": "JHG"
+        },
+        {
+            "code": "JHL"
+        },
+        {
+            "code": "JHX"
+        },
+        {
+            "code": "JIN"
+        },
+        {
+            "code": "JLG"
+        },
+        {
+            "code": "JMS"
+        },
+        {
+            "code": "JPR"
+        },
+        {
+            "code": "JRL"
+        },
+        {
+            "code": "JRV"
+        },
+        {
+            "code": "JXT"
+        },
+        {
+            "code": "JYC"
+        },
+        {
+            "code": "K2F"
+        },
+        {
+            "code": "KAI"
+        },
+        {
+            "code": "KAM"
+        },
+        {
+            "code": "KAR"
+        },
+        {
+            "code": "KAT"
+        },
+        {
+            "code": "KAU"
+        },
+        {
+            "code": "KBC"
+        },
+        {
+            "code": "KCN"
+        },
+        {
+            "code": "KEY"
+        },
+        {
+            "code": "KFE"
+        },
+        {
+            "code": "KFM"
+        },
+        {
+            "code": "KGD"
+        },
+        {
+            "code": "KGL"
+        },
+        {
+            "code": "KGM"
+        },
+        {
+            "code": "KGN"
+        },
+        {
+            "code": "KIN"
+        },
+        {
+            "code": "KIS"
+        },
+        {
+            "code": "KKC"
+        },
+        {
+            "code": "KKL"
+        },
+        {
+            "code": "KKO"
+        },
+        {
+            "code": "KLA"
+        },
+        {
+            "code": "KLL"
+        },
+        {
+            "code": "KLO"
+        },
+        {
+            "code": "KLR"
+        },
+        {
+            "code": "KMD"
+        },
+        {
+            "code": "KME"
+        },
+        {
+            "code": "KMT"
+        },
+        {
+            "code": "KNH"
+        },
+        {
+            "code": "KNM"
+        },
+        {
+            "code": "KNO"
+        },
+        {
+            "code": "KOR"
+        },
+        {
+            "code": "KOV"
+        },
+        {
+            "code": "KP2"
+        },
+        {
+            "code": "KPC"
+        },
+        {
+            "code": "KPE"
+        },
+        {
+            "code": "KPG"
+        },
+        {
+            "code": "KPO"
+        },
+        {
+            "code": "KPT"
+        },
+        {
+            "code": "KRM"
+        },
+        {
+            "code": "KRR"
+        },
+        {
+            "code": "KSC"
+        },
+        {
+            "code": "KSL"
+        },
+        {
+            "code": "KSM"
+        },
+        {
+            "code": "KSN"
+        },
+        {
+            "code": "KSS"
+        },
+        {
+            "code": "KTA"
+        },
+        {
+            "code": "KTD"
+        },
+        {
+            "code": "KTE"
+        },
+        {
+            "code": "KTG"
+        },
+        {
+            "code": "KWR"
+        },
+        {
+            "code": "KYK"
+        },
+        {
+            "code": "KZA"
+        },
+        {
+            "code": "KZR"
+        },
+        {
+            "code": "LAM"
+        },
+        {
+            "code": "LAU"
+        },
+        {
+            "code": "LAW"
+        },
+        {
+            "code": "LBL"
+        },
+        {
+            "code": "LBT"
+        },
+        {
+            "code": "LBY"
+        },
+        {
+            "code": "LCD"
+        },
+        {
+            "code": "LCE"
+        },
+        {
+            "code": "LCK"
+        },
+        {
+            "code": "LCL"
+        },
+        {
+            "code": "LCT"
+        },
+        {
+            "code": "LCY"
+        },
+        {
+            "code": "LEG"
+        },
+        {
+            "code": "LEP"
+        },
+        {
+            "code": "LER"
+        },
+        {
+            "code": "LEX"
+        },
+        {
+            "code": "LGP"
+        },
+        {
+            "code": "LHB"
+        },
+        {
+            "code": "LHM"
+        },
+        {
+            "code": "LIC"
+        },
+        {
+            "code": "LIN"
+        },
+        {
+            "code": "LIO"
+        },
+        {
+            "code": "LIT"
+        },
+        {
+            "code": "LKE"
+        },
+        {
+            "code": "LKO"
+        },
+        {
+            "code": "LLC"
+        },
+        {
+            "code": "LLO"
+        },
+        {
+            "code": "LME"
+        },
+        {
+            "code": "LMG"
+        },
+        {
+            "code": "LML"
+        },
+        {
+            "code": "LNAS"
+        },
+        {
+            "code": "LNG"
+        },
+        {
+            "code": "LNK"
+        },
+        {
+            "code": "LNU"
+        },
+        {
+            "code": "LNY"
+        },
+        {
+            "code": "LOM"
+        },
+        {
+            "code": "LOT"
+        },
+        {
+            "code": "LOV"
+        },
+        {
+            "code": "LPD"
+        },
+        {
+            "code": "LPE"
+        },
+        {
+            "code": "LPI"
+        },
+        {
+            "code": "LRK"
+        },
+        {
+            "code": "LRS"
+        },
+        {
+            "code": "LRT"
+        },
+        {
+            "code": "LSA"
+        },
+        {
+            "code": "LSF"
+        },
+        {
+            "code": "LSH"
+        },
+        {
+            "code": "LSR"
+        },
+        {
+            "code": "LSX"
+        },
+        {
+            "code": "LTR"
+        },
+        {
+            "code": "LVE"
+        },
+        {
+            "code": "LVH"
+        },
+        {
+            "code": "LVT"
+        },
+        {
+            "code": "LYC"
+        },
+        {
+            "code": "LYL"
+        },
+        {
+            "code": "M7T"
+        },
+        {
+            "code": "M8S"
+        },
+        {
+            "code": "MA1"
+        },
+        {
+            "code": "MAD"
+        },
+        {
+            "code": "MAG"
+        },
+        {
+            "code": "MAH"
+        },
+        {
+            "code": "MAI"
+        },
+        {
+            "code": "MAM"
+        },
+        {
+            "code": "MAN"
+        },
+        {
+            "code": "MAQ"
+        },
+        {
+            "code": "MAT"
+        },
+        {
+            "code": "MAU"
+        },
+        {
+            "code": "MAX"
+        },
+        {
+            "code": "MAY"
+        },
+        {
+            "code": "MBH"
+        },
+        {
+            "code": "MBK"
+        },
+        {
+            "code": "MBM"
+        },
+        {
+            "code": "MCA"
+        },
+        {
+            "code": "MCB"
+        },
+        {
+            "code": "MCE"
+        },
+        {
+            "code": "MCL"
+        },
+        {
+            "code": "MCM"
+        },
+        {
+            "code": "MCP"
+        },
+        {
+            "code": "MCR"
+        },
+        {
+            "code": "MCT"
+        },
+        {
+            "code": "MCX"
+        },
+        {
+            "code": "MCY"
+        },
+        {
+            "code": "MDC"
+        },
+        {
+            "code": "MDI"
+        },
+        {
+            "code": "MDR"
+        },
+        {
+            "code": "MDX"
+        },
+        {
+            "code": "MEA"
+        },
+        {
+            "code": "MEB"
+        },
+        {
+            "code": "MEC"
+        },
+        {
+            "code": "MEG"
+        },
+        {
+            "code": "MEI"
+        },
+        {
+            "code": "MEL"
+        },
+        {
+            "code": "MEM"
+        },
+        {
+            "code": "MEP"
+        },
+        {
+            "code": "MEU"
+        },
+        {
+            "code": "MEY"
+        },
+        {
+            "code": "MEZ"
+        },
+        {
+            "code": "MFD"
+        },
+        {
+            "code": "MFF"
+        },
+        {
+            "code": "MFG"
+        },
+        {
+            "code": "MGE"
+        },
+        {
+            "code": "MGL"
+        },
+        {
+            "code": "MGR"
+        },
+        {
+            "code": "MGT"
+        },
+        {
+            "code": "MGU"
+        },
+        {
+            "code": "MGV"
+        },
+        {
+            "code": "MGX"
+        },
+        {
+            "code": "MGZ"
+        },
+        {
+            "code": "MHC"
+        },
+        {
+            "code": "MHG"
+        },
+        {
+            "code": "MHH"
+        },
+        {
+            "code": "MHI"
+        },
+        {
+            "code": "MHJ"
+        },
+        {
+            "code": "MHK"
+        },
+        {
+            "code": "MICH"
+        },
+        {
+            "code": "MIH"
+        },
+        {
+            "code": "MIL"
+        },
+        {
+            "code": "MIN"
+        },
+        {
+            "code": "MIO"
+        },
+        {
+            "code": "MIR"
+        },
+        {
+            "code": "MKAX"
+        },
+        {
+            "code": "MKG"
+        },
+        {
+            "code": "MKR"
+        },
+        {
+            "code": "MLD"
+        },
+        {
+            "code": "MLM"
+        },
+        {
+            "code": "MLS"
+        },
+        {
+            "code": "MLT"
+        },
+        {
+            "code": "MLX"
+        },
+        {
+            "code": "MME"
+        },
+        {
+            "code": "MMI"
+        },
+        {
+            "code": "MMJ"
+        },
+        {
+            "code": "MML"
+        },
+        {
+            "code": "MMM"
+        },
+        {
+            "code": "MMR"
+        },
+        {
+            "code": "MMS"
+        },
+        {
+            "code": "MNB"
+        },
+        {
+            "code": "MND"
+        },
+        {
+            "code": "MNF"
+        },
+        {
+            "code": "MNRS"
+        },
+        {
+            "code": "MNS"
+        },
+        {
+            "code": "MNY"
+        },
+        {
+            "code": "MOAT"
+        },
+        {
+            "code": "MOB"
+        },
+        {
+            "code": "MOC"
+        },
+        {
+            "code": "MOE"
+        },
+        {
+            "code": "MOGL"
+        },
+        {
+            "code": "MOH"
+        },
+        {
+            "code": "MOQ"
+        },
+        {
+            "code": "MOT"
+        },
+        {
+            "code": "MOZ"
+        },
+        {
+            "code": "MP1"
+        },
+        {
+            "code": "MPH"
+        },
+        {
+            "code": "MPL"
+        },
+        {
+            "code": "MPO"
+        },
+        {
+            "code": "MPP"
+        },
+        {
+            "code": "MPR"
+        },
+        {
+            "code": "MPX"
+        },
+        {
+            "code": "MQG"
+        },
+        {
+            "code": "MQR"
+        },
+        {
+            "code": "MRC"
+        },
+        {
+            "code": "MRD"
+        },
+        {
+            "code": "MRG"
+        },
+        {
+            "code": "MRL"
+        },
+        {
+            "code": "MRM"
+        },
+        {
+            "code": "MRQ"
+        },
+        {
+            "code": "MRR"
+        },
+        {
+            "code": "MRZ"
+        },
+        {
+            "code": "MSB"
+        },
+        {
+            "code": "MSG"
+        },
+        {
+            "code": "MSI"
+        },
+        {
+            "code": "MSL"
+        },
+        {
+            "code": "MSM"
+        },
+        {
+            "code": "MSR"
+        },
+        {
+            "code": "MSTR"
+        },
+        {
+            "code": "MSV"
+        },
+        {
+            "code": "MTB"
+        },
+        {
+            "code": "MTC"
+        },
+        {
+            "code": "MTH"
+        },
+        {
+            "code": "MTL"
+        },
+        {
+            "code": "MTO"
+        },
+        {
+            "code": "MTS"
+        },
+        {
+            "code": "MVA"
+        },
+        {
+            "code": "MVB"
+        },
+        {
+            "code": "MVE"
+        },
+        {
+            "code": "MVF"
+        },
+        {
+            "code": "MVL"
+        },
+        {
+            "code": "MVOL"
+        },
+        {
+            "code": "MVP"
+        },
+        {
+            "code": "MVR"
+        },
+        {
+            "code": "MVS"
+        },
+        {
+            "code": "MVW"
+        },
+        {
+            "code": "MWY"
+        },
+        {
+            "code": "MX1"
+        },
+        {
+            "code": "MXC"
+        },
+        {
+            "code": "MXI"
+        },
+        {
+            "code": "MXO"
+        },
+        {
+            "code": "MXR"
+        },
+        {
+            "code": "MXT"
+        },
+        {
+            "code": "MYD"
+        },
+        {
+            "code": "MYE"
+        },
+        {
+            "code": "MYG"
+        },
+        {
+            "code": "MYL"
+        },
+        {
+            "code": "MYQ"
+        },
+        {
+            "code": "MYR"
+        },
+        {
+            "code": "MYS"
+        },
+        {
+            "code": "MYX"
+        },
+        {
+            "code": "MZZ"
+        },
+        {
+            "code": "N1H"
+        },
+        {
+            "code": "NAB"
+        },
+        {
+            "code": "NAC"
+        },
+        {
+            "code": "NAE"
+        },
+        {
+            "code": "NAG"
+        },
+        {
+            "code": "NAM"
+        },
+        {
+            "code": "NAN"
+        },
+        {
+            "code": "NBI"
+        },
+        {
+            "code": "NC6"
+        },
+        {
+            "code": "NCC"
+        },
+        {
+            "code": "NCK"
+        },
+        {
+            "code": "NCL"
+        },
+        {
+            "code": "NCM"
+        },
+        {
+            "code": "NCR"
+        },
+        {
+            "code": "NCZ"
+        },
+        {
+            "code": "NDIA"
+        },
+        {
+            "code": "NDQ"
+        },
+        {
+            "code": "NEA"
+        },
+        {
+            "code": "NEC"
+        },
+        {
+            "code": "NES"
+        },
+        {
+            "code": "NET"
+        },
+        {
+            "code": "NEU"
+        },
+        {
+            "code": "NEW"
+        },
+        {
+            "code": "NGE"
+        },
+        {
+            "code": "NGI"
+        },
+        {
+            "code": "NGS"
+        },
+        {
+            "code": "NGY"
+        },
+        {
+            "code": "NHC"
+        },
+        {
+            "code": "NHF"
+        },
+        {
+            "code": "NIC"
+        },
+        {
+            "code": "NIU"
+        },
+        {
+            "code": "NME"
+        },
+        {
+            "code": "NML"
+        },
+        {
+            "code": "NMR"
+        },
+        {
+            "code": "NMT"
+        },
+        {
+            "code": "NNT"
+        },
+        {
+            "code": "NOR"
+        },
+        {
+            "code": "NOV"
+        },
+        {
+            "code": "NOX"
+        },
+        {
+            "code": "NPM"
+        },
+        {
+            "code": "NRX"
+        },
+        {
+            "code": "NSB"
+        },
+        {
+            "code": "NSC"
+        },
+        {
+            "code": "NSE"
+        },
+        {
+            "code": "NSR"
+        },
+        {
+            "code": "NST"
+        },
+        {
+            "code": "NSX"
+        },
+        {
+            "code": "NTD"
+        },
+        {
+            "code": "NTI"
+        },
+        {
+            "code": "NTL"
+        },
+        {
+            "code": "NTM"
+        },
+        {
+            "code": "NTO"
+        },
+        {
+            "code": "NTU"
+        },
+        {
+            "code": "NUC"
+        },
+        {
+            "code": "NUF"
+        },
+        {
+            "code": "NUH"
+        },
+        {
+            "code": "NUS"
+        },
+        {
+            "code": "NVA"
+        },
+        {
+            "code": "NVU"
+        },
+        {
+            "code": "NVX"
+        },
+        {
+            "code": "NWC"
+        },
+        {
+            "code": "NWE"
+        },
+        {
+            "code": "NWF"
+        },
+        {
+            "code": "NWH"
+        },
+        {
+            "code": "NWL"
+        },
+        {
+            "code": "NWM"
+        },
+        {
+            "code": "NWS"
+        },
+        {
+            "code": "NXE"
+        },
+        {
+            "code": "NXL"
+        },
+        {
+            "code": "NXM"
+        },
+        {
+            "code": "NXS"
+        },
+        {
+            "code": "NXT"
+        },
+        {
+            "code": "NYR"
+        },
+        {
+            "code": "NZK"
+        },
+        {
+            "code": "NZM"
+        },
+        {
+            "code": "NZO"
+        },
+        {
+            "code": "NZS"
+        },
+        {
+            "code": "OAR"
+        },
+        {
+            "code": "OAU"
+        },
+        {
+            "code": "OBL"
+        },
+        {
+            "code": "OBM"
+        },
+        {
+            "code": "OCA"
+        },
+        {
+            "code": "OCC"
+        },
+        {
+            "code": "OCL"
+        },
+        {
+            "code": "ODA"
+        },
+        {
+            "code": "ODM"
+        },
+        {
+            "code": "ODY"
+        },
+        {
+            "code": "OEC"
+        },
+        {
+            "code": "OEL"
+        },
+        {
+            "code": "OEQ"
+        },
+        {
+            "code": "OEX"
+        },
+        {
+            "code": "OFX"
+        },
+        {
+            "code": "OGA"
+        },
+        {
+            "code": "OGC"
+        },
+        {
+            "code": "OIL"
+        },
+        {
+            "code": "OKJ"
+        },
+        {
+            "code": "OKR"
+        },
+        {
+            "code": "OKU"
+        },
+        {
+            "code": "OLH"
+        },
+        {
+            "code": "OLI"
+        },
+        {
+            "code": "OLL"
+        },
+        {
+            "code": "OMH"
+        },
+        {
+            "code": "OML"
+        },
+        {
+            "code": "ONE"
+        },
+        {
+            "code": "ONT"
+        },
+        {
+            "code": "ONX"
+        },
+        {
+            "code": "OOK"
+        },
+        {
+            "code": "OOO"
+        },
+        {
+            "code": "OPH"
+        },
+        {
+            "code": "OPL"
+        },
+        {
+            "code": "OPT"
+        },
+        {
+            "code": "OPY"
+        },
+        {
+            "code": "ORA"
+        },
+        {
+            "code": "ORE"
+        },
+        {
+            "code": "ORG"
+        },
+        {
+            "code": "ORI"
+        },
+        {
+            "code": "ORM"
+        },
+        {
+            "code": "ORN"
+        },
+        {
+            "code": "ORR"
+        },
+        {
+            "code": "OSH"
+        },
+        {
+            "code": "OSL"
+        },
+        {
+            "code": "OSP"
+        },
+        {
+            "code": "OSX"
+        },
+        {
+            "code": "OTW"
+        },
+        {
+            "code": "OVN"
+        },
+        {
+            "code": "OVT"
+        },
+        {
+            "code": "OXX"
+        },
+        {
+            "code": "OZF"
+        },
+        {
+            "code": "OZG"
+        },
+        {
+            "code": "OZL"
+        },
+        {
+            "code": "OZR"
+        },
+        {
+            "code": "P2P"
+        },
+        {
+            "code": "PAA"
+        },
+        {
+            "code": "PAB"
+        },
+        {
+            "code": "PAC"
+        },
+        {
+            "code": "PAF"
+        },
+        {
+            "code": "PAI"
+        },
+        {
+            "code": "PAK"
+        },
+        {
+            "code": "PAL"
+        },
+        {
+            "code": "PAM"
+        },
+        {
+            "code": "PAN"
+        },
+        {
+            "code": "PAR"
+        },
+        {
+            "code": "PAXX"
+        },
+        {
+            "code": "PBH"
+        },
+        {
+            "code": "PBP"
+        },
+        {
+            "code": "PBX"
+        },
+        {
+            "code": "PCG"
+        },
+        {
+            "code": "PCH"
+        },
+        {
+            "code": "PCI"
+        },
+        {
+            "code": "PCK"
+        },
+        {
+            "code": "PCL"
+        },
+        {
+            "code": "PDI"
+        },
+        {
+            "code": "PDL"
+        },
+        {
+            "code": "PDN"
+        },
+        {
+            "code": "PDZ"
+        },
+        {
+            "code": "PE1"
+        },
+        {
+            "code": "PEC"
+        },
+        {
+            "code": "PEK"
+        },
+        {
+            "code": "PEN"
+        },
+        {
+            "code": "PET"
+        },
+        {
+            "code": "PEX"
+        },
+        {
+            "code": "PFG"
+        },
+        {
+            "code": "PFP"
+        },
+        {
+            "code": "PFT"
+        },
+        {
+            "code": "PG1"
+        },
+        {
+            "code": "PGC"
+        },
+        {
+            "code": "PGF"
+        },
+        {
+            "code": "PGG"
+        },
+        {
+            "code": "PGH"
+        },
+        {
+            "code": "PGL"
+        },
+        {
+            "code": "PGM"
+        },
+        {
+            "code": "PGR"
+        },
+        {
+            "code": "PGX"
+        },
+        {
+            "code": "PGY"
+        },
+        {
+            "code": "PIA"
+        },
+        {
+            "code": "PIC"
+        },
+        {
+            "code": "PIL"
+        },
+        {
+            "code": "PIN"
+        },
+        {
+            "code": "PIQ"
+        },
+        {
+            "code": "PIXX"
+        },
+        {
+            "code": "PKD"
+        },
+        {
+            "code": "PKO"
+        },
+        {
+            "code": "PKS"
+        },
+        {
+            "code": "PL8"
+        },
+        {
+            "code": "PLL"
+        },
+        {
+            "code": "PLS"
+        },
+        {
+            "code": "PLT"
+        },
+        {
+            "code": "PLUS"
+        },
+        {
+            "code": "PLY"
+        },
+        {
+            "code": "PM8"
+        },
+        {
+            "code": "PMC"
+        },
+        {
+            "code": "PME"
+        },
+        {
+            "code": "PMGOLD"
+        },
+        {
+            "code": "PMV"
+        },
+        {
+            "code": "PMY"
+        },
+        {
+            "code": "PNC"
+        },
+        {
+            "code": "PNI"
+        },
+        {
+            "code": "PNL"
+        },
+        {
+            "code": "PNM"
+        },
+        {
+            "code": "PNN"
+        },
+        {
+            "code": "PNR"
+        },
+        {
+            "code": "PNV"
+        },
+        {
+            "code": "PNX"
+        },
+        {
+            "code": "PO3"
+        },
+        {
+            "code": "POD"
+        },
+        {
+            "code": "POS"
+        },
+        {
+            "code": "POU"
+        },
+        {
+            "code": "POW"
+        },
+        {
+            "code": "PPC"
+        },
+        {
+            "code": "PPE"
+        },
+        {
+            "code": "PPG"
+        },
+        {
+            "code": "PPH"
+        },
+        {
+            "code": "PPK"
+        },
+        {
+            "code": "PPL"
+        },
+        {
+            "code": "PPS"
+        },
+        {
+            "code": "PPT"
+        },
+        {
+            "code": "PPY"
+        },
+        {
+            "code": "PRL"
+        },
+        {
+            "code": "PRM"
+        },
+        {
+            "code": "PRN"
+        },
+        {
+            "code": "PRO"
+        },
+        {
+            "code": "PRS"
+        },
+        {
+            "code": "PRT"
+        },
+        {
+            "code": "PRU"
+        },
+        {
+            "code": "PRX"
+        },
+        {
+            "code": "PSA"
+        },
+        {
+            "code": "PSC"
+        },
+        {
+            "code": "PSI"
+        },
+        {
+            "code": "PSQ"
+        },
+        {
+            "code": "PSZ"
+        },
+        {
+            "code": "PTB"
+        },
+        {
+            "code": "PTG"
+        },
+        {
+            "code": "PTL"
+        },
+        {
+            "code": "PTM"
+        },
+        {
+            "code": "PTR"
+        },
+        {
+            "code": "PTX"
+        },
+        {
+            "code": "PUA"
+        },
+        {
+            "code": "PUR"
+        },
+        {
+            "code": "PVE"
+        },
+        {
+            "code": "PVL"
+        },
+        {
+            "code": "PVS"
+        },
+        {
+            "code": "PWG"
+        },
+        {
+            "code": "PWH"
+        },
+        {
+            "code": "PWN"
+        },
+        {
+            "code": "PX1"
+        },
+        {
+            "code": "PXS"
+        },
+        {
+            "code": "PXX"
+        },
+        {
+            "code": "PYC"
+        },
+        {
+            "code": "PYG"
+        },
+        {
+            "code": "QAG"
+        },
+        {
+            "code": "QAN"
+        },
+        {
+            "code": "QAU"
+        },
+        {
+            "code": "QBE"
+        },
+        {
+            "code": "QCB"
+        },
+        {
+            "code": "QEM"
+        },
+        {
+            "code": "QFE"
+        },
+        {
+            "code": "QFN"
+        },
+        {
+            "code": "QFY"
+        },
+        {
+            "code": "QGL"
+        },
+        {
+            "code": "QHAL"
+        },
+        {
+            "code": "QHL"
+        },
+        {
+            "code": "QIP"
+        },
+        {
+            "code": "QLTY"
+        },
+        {
+            "code": "QMIX"
+        },
+        {
+            "code": "QOZ"
+        },
+        {
+            "code": "QPM"
+        },
+        {
+            "code": "QPON"
+        },
+        {
+            "code": "QRE"
+        },
+        {
+            "code": "QRI"
+        },
+        {
+            "code": "QSS"
+        },
+        {
+            "code": "QTG"
+        },
+        {
+            "code": "QTM"
+        },
+        {
+            "code": "QUAL"
+        },
+        {
+            "code": "QUB"
+        },
+        {
+            "code": "QUE"
+        },
+        {
+            "code": "QUS"
+        },
+        {
+            "code": "QVE"
+        },
+        {
+            "code": "QXR"
+        },
+        {
+            "code": "R3D"
+        },
+        {
+            "code": "RAC"
+        },
+        {
+            "code": "RAG"
+        },
+        {
+            "code": "RAN"
+        },
+        {
+            "code": "RAP"
+        },
+        {
+            "code": "RARI"
+        },
+        {
+            "code": "RAS"
+        },
+        {
+            "code": "RBL"
+        },
+        {
+            "code": "RBR"
+        },
+        {
+            "code": "RBTZ"
+        },
+        {
+            "code": "RCB"
+        },
+        {
+            "code": "RCE"
+        },
+        {
+            "code": "RCL"
+        },
+        {
+            "code": "RCP"
+        },
+        {
+            "code": "RCT"
+        },
+        {
+            "code": "RCW"
+        },
+        {
+            "code": "RD1"
+        },
+        {
+            "code": "RDC"
+        },
+        {
+            "code": "RDF"
+        },
+        {
+            "code": "RDG"
+        },
+        {
+            "code": "RDH"
+        },
+        {
+            "code": "RDM"
+        },
+        {
+            "code": "RDN"
+        },
+        {
+            "code": "RDS"
+        },
+        {
+            "code": "RDV"
+        },
+        {
+            "code": "RDY"
+        },
+        {
+            "code": "REA"
+        },
+        {
+            "code": "RED"
+        },
+        {
+            "code": "REE"
+        },
+        {
+            "code": "REF"
+        },
+        {
+            "code": "REG"
+        },
+        {
+            "code": "REH"
+        },
+        {
+            "code": "REIT"
+        },
+        {
+            "code": "RENT"
+        },
+        {
+            "code": "RES"
+        },
+        {
+            "code": "REX"
+        },
+        {
+            "code": "REY"
+        },
+        {
+            "code": "REZ"
+        },
+        {
+            "code": "RF1"
+        },
+        {
+            "code": "RFF"
+        },
+        {
+            "code": "RFG"
+        },
+        {
+            "code": "RFN"
+        },
+        {
+            "code": "RFR"
+        },
+        {
+            "code": "RFT"
+        },
+        {
+            "code": "RFX"
+        },
+        {
+            "code": "RGB"
+        },
+        {
+            "code": "RGI"
+        },
+        {
+            "code": "RGL"
+        },
+        {
+            "code": "RGS"
+        },
+        {
+            "code": "RHC"
+        },
+        {
+            "code": "RHI"
+        },
+        {
+            "code": "RHP"
+        },
+        {
+            "code": "RHT"
+        },
+        {
+            "code": "RHY"
+        },
+        {
+            "code": "RIC"
+        },
+        {
+            "code": "RIE"
+        },
+        {
+            "code": "RIM"
+        },
+        {
+            "code": "RINC"
+        },
+        {
+            "code": "RIO"
+        },
+        {
+            "code": "RKN"
+        },
+        {
+            "code": "RLC"
+        },
+        {
+            "code": "RLE"
+        },
+        {
+            "code": "RLG"
+        },
+        {
+            "code": "RLT"
+        },
+        {
+            "code": "RMC"
+        },
+        {
+            "code": "RMD"
+        },
+        {
+            "code": "RMG"
+        },
+        {
+            "code": "RMI"
+        },
+        {
+            "code": "RML"
+        },
+        {
+            "code": "RMP"
+        },
+        {
+            "code": "RMS"
+        },
+        {
+            "code": "RMT"
+        },
+        {
+            "code": "RMX"
+        },
+        {
+            "code": "RMY"
+        },
+        {
+            "code": "RND"
+        },
+        {
+            "code": "RNE"
+        },
+        {
+            "code": "RNO"
+        },
+        {
+            "code": "RNT"
+        },
+        {
+            "code": "RNU"
+        },
+        {
+            "code": "RNX"
+        },
+        {
+            "code": "RNY"
+        },
+        {
+            "code": "ROBO"
+        },
+        {
+            "code": "ROG"
+        },
+        {
+            "code": "ROO"
+        },
+        {
+            "code": "RPG"
+        },
+        {
+            "code": "RPM"
+        },
+        {
+            "code": "RRL"
+        },
+        {
+            "code": "RSG"
+        },
+        {
+            "code": "RSH"
+        },
+        {
+            "code": "RSM"
+        },
+        {
+            "code": "RTE"
+        },
+        {
+            "code": "RTG"
+        },
+        {
+            "code": "RTR"
+        },
+        {
+            "code": "RUL"
+        },
+        {
+            "code": "RVR"
+        },
+        {
+            "code": "RVS"
+        },
+        {
+            "code": "RWC"
+        },
+        {
+            "code": "RWD"
+        },
+        {
+            "code": "RXH"
+        },
+        {
+            "code": "RXL"
+        },
+        {
+            "code": "RXM"
+        },
+        {
+            "code": "RXP"
+        },
+        {
+            "code": "RYD"
+        },
+        {
+            "code": "RZI"
+        },
+        {
+            "code": "S2R"
+        },
+        {
+            "code": "S32"
+        },
+        {
+            "code": "S66"
+        },
+        {
+            "code": "SAN"
+        },
+        {
+            "code": "SAR"
+        },
+        {
+            "code": "SAS"
+        },
+        {
+            "code": "SAU"
+        },
+        {
+            "code": "SBM"
+        },
+        {
+            "code": "SBR"
+        },
+        {
+            "code": "SBU"
+        },
+        {
+            "code": "SBW"
+        },
+        {
+            "code": "SCG"
+        },
+        {
+            "code": "SCI"
+        },
+        {
+            "code": "SCL"
+        },
+        {
+            "code": "SCN"
+        },
+        {
+            "code": "SCP"
+        },
+        {
+            "code": "SCT"
+        },
+        {
+            "code": "SCU"
+        },
+        {
+            "code": "SDA"
+        },
+        {
+            "code": "SDF"
+        },
+        {
+            "code": "SDG"
+        },
+        {
+            "code": "SDI"
+        },
+        {
+            "code": "SDL"
+        },
+        {
+            "code": "SDV"
+        },
+        {
+            "code": "SE1"
+        },
+        {
+            "code": "SEC"
+        },
+        {
+            "code": "SEG"
+        },
+        {
+            "code": "SEK"
+        },
+        {
+            "code": "SELF"
+        },
+        {
+            "code": "SEN"
+        },
+        {
+            "code": "SEQ"
+        },
+        {
+            "code": "SER"
+        },
+        {
+            "code": "SES"
+        },
+        {
+            "code": "SF1"
+        },
+        {
+            "code": "SFC"
+        },
+        {
+            "code": "SFG"
+        },
+        {
+            "code": "SFM"
+        },
+        {
+            "code": "SFR"
+        },
+        {
+            "code": "SFX"
+        },
+        {
+            "code": "SFY"
+        },
+        {
+            "code": "SGC"
+        },
+        {
+            "code": "SGF"
+        },
+        {
+            "code": "SGH"
+        },
+        {
+            "code": "SGI"
+        },
+        {
+            "code": "SGL"
+        },
+        {
+            "code": "SGM"
+        },
+        {
+            "code": "SGP"
+        },
+        {
+            "code": "SGQ"
+        },
+        {
+            "code": "SGR"
+        },
+        {
+            "code": "SHE"
+        },
+        {
+            "code": "SHH"
+        },
+        {
+            "code": "SHJ"
+        },
+        {
+            "code": "SHL"
+        },
+        {
+            "code": "SHM"
+        },
+        {
+            "code": "SHN"
+        },
+        {
+            "code": "SHO"
+        },
+        {
+            "code": "SHV"
+        },
+        {
+            "code": "SI6"
+        },
+        {
+            "code": "SIG"
+        },
+        {
+            "code": "SIH"
+        },
+        {
+            "code": "SIL"
+        },
+        {
+            "code": "SIO"
+        },
+        {
+            "code": "SIQ"
+        },
+        {
+            "code": "SIS"
+        },
+        {
+            "code": "SIT"
+        },
+        {
+            "code": "SIV"
+        },
+        {
+            "code": "SIX"
+        },
+        {
+            "code": "SKC"
+        },
+        {
+            "code": "SKF"
+        },
+        {
+            "code": "SKI"
+        },
+        {
+            "code": "SKN"
+        },
+        {
+            "code": "SKO"
+        },
+        {
+            "code": "SKS"
+        },
+        {
+            "code": "SKT"
+        },
+        {
+            "code": "SKY"
+        },
+        {
+            "code": "SL1"
+        },
+        {
+            "code": "SLC"
+        },
+        {
+            "code": "SLF"
+        },
+        {
+            "code": "SLK"
+        },
+        {
+            "code": "SLR"
+        },
+        {
+            "code": "SLX"
+        },
+        {
+            "code": "SLZ"
+        },
+        {
+            "code": "SM1"
+        },
+        {
+            "code": "SMG"
+        },
+        {
+            "code": "SMI"
+        },
+        {
+            "code": "SMLL"
+        },
+        {
+            "code": "SMN"
+        },
+        {
+            "code": "SMP"
+        },
+        {
+            "code": "SMR"
+        },
+        {
+            "code": "SMX"
+        },
+        {
+            "code": "SNAS"
+        },
+        {
+            "code": "SNC"
+        },
+        {
+            "code": "SND"
+        },
+        {
+            "code": "SNG"
+        },
+        {
+            "code": "SNL"
+        },
+        {
+            "code": "SNS"
+        },
+        {
+            "code": "SNZ"
+        },
+        {
+            "code": "SO4"
+        },
+        {
+            "code": "SOL"
+        },
+        {
+            "code": "SOM"
+        },
+        {
+            "code": "SOP"
+        },
+        {
+            "code": "SOR"
+        },
+        {
+            "code": "SOV"
+        },
+        {
+            "code": "SP3"
+        },
+        {
+            "code": "SPA"
+        },
+        {
+            "code": "SPK"
+        },
+        {
+            "code": "SPL"
+        },
+        {
+            "code": "SPN"
+        },
+        {
+            "code": "SPQ"
+        },
+        {
+            "code": "SPT"
+        },
+        {
+            "code": "SPY"
+        },
+        {
+            "code": "SPZ"
+        },
+        {
+            "code": "SRG"
+        },
+        {
+            "code": "SRH"
+        },
+        {
+            "code": "SRI"
+        },
+        {
+            "code": "SRJ"
+        },
+        {
+            "code": "SRK"
+        },
+        {
+            "code": "SRN"
+        },
+        {
+            "code": "SRV"
+        },
+        {
+            "code": "SRY"
+        },
+        {
+            "code": "SRZ"
+        },
+        {
+            "code": "SSG"
+        },
+        {
+            "code": "SSL"
+        },
+        {
+            "code": "SSM"
+        },
+        {
+            "code": "SSO"
+        },
+        {
+            "code": "SSR"
+        },
+        {
+            "code": "SST"
+        },
+        {
+            "code": "ST1"
+        },
+        {
+            "code": "STA"
+        },
+        {
+            "code": "STC"
+        },
+        {
+            "code": "STG"
+        },
+        {
+            "code": "STK"
+        },
+        {
+            "code": "STM"
+        },
+        {
+            "code": "STN"
+        },
+        {
+            "code": "STO"
+        },
+        {
+            "code": "STW"
+        },
+        {
+            "code": "STX"
+        },
+        {
+            "code": "SUBD"
+        },
+        {
+            "code": "SUD"
+        },
+        {
+            "code": "SUH"
+        },
+        {
+            "code": "SUL"
+        },
+        {
+            "code": "SUN"
+        },
+        {
+            "code": "SUP"
+        },
+        {
+            "code": "SUV"
+        },
+        {
+            "code": "SVA"
+        },
+        {
+            "code": "SVL"
+        },
+        {
+            "code": "SVM"
+        },
+        {
+            "code": "SVS"
+        },
+        {
+            "code": "SVW"
+        },
+        {
+            "code": "SVY"
+        },
+        {
+            "code": "SW1"
+        },
+        {
+            "code": "SWF"
+        },
+        {
+            "code": "SWK"
+        },
+        {
+            "code": "SWM"
+        },
+        {
+            "code": "SWTZ"
+        },
+        {
+            "code": "SXA"
+        },
+        {
+            "code": "SXE"
+        },
+        {
+            "code": "SXL"
+        },
+        {
+            "code": "SXX"
+        },
+        {
+            "code": "SXY"
+        },
+        {
+            "code": "SYA"
+        },
+        {
+            "code": "SYD"
+        },
+        {
+            "code": "SYI"
+        },
+        {
+            "code": "SYR"
+        },
+        {
+            "code": "SYT"
+        },
+        {
+            "code": "SZL"
+        },
+        {
+            "code": "T3D"
+        },
+        {
+            "code": "TAH"
+        },
+        {
+            "code": "TAM"
+        },
+        {
+            "code": "TAO"
+        },
+        {
+            "code": "TAP"
+        },
+        {
+            "code": "TAR"
+        },
+        {
+            "code": "TAS"
+        },
+        {
+            "code": "TBR"
+        },
+        {
+            "code": "TCF"
+        },
+        {
+            "code": "TCL"
+        },
+        {
+            "code": "TCN"
+        },
+        {
+            "code": "TCO"
+        },
+        {
+            "code": "TD1"
+        },
+        {
+            "code": "TDI"
+        },
+        {
+            "code": "TDL"
+        },
+        {
+            "code": "TDO"
+        },
+        {
+            "code": "TECH"
+        },
+        {
+            "code": "TEG"
+        },
+        {
+            "code": "TEK"
+        },
+        {
+            "code": "TEM"
+        },
+        {
+            "code": "TER"
+        },
+        {
+            "code": "TFL"
+        },
+        {
+            "code": "TGA"
+        },
+        {
+            "code": "TGF"
+        },
+        {
+            "code": "TGG"
+        },
+        {
+            "code": "TGH"
+        },
+        {
+            "code": "TGM"
+        },
+        {
+            "code": "TGN"
+        },
+        {
+            "code": "TGO"
+        },
+        {
+            "code": "TGP"
+        },
+        {
+            "code": "TGR"
+        },
+        {
+            "code": "THC"
+        },
+        {
+            "code": "THD"
+        },
+        {
+            "code": "THR"
+        },
+        {
+            "code": "TI1"
+        },
+        {
+            "code": "TIA"
+        },
+        {
+            "code": "TIE"
+        },
+        {
+            "code": "TIG"
+        },
+        {
+            "code": "TIN"
+        },
+        {
+            "code": "TIP"
+        },
+        {
+            "code": "TKF"
+        },
+        {
+            "code": "TKL"
+        },
+        {
+            "code": "TKM"
+        },
+        {
+            "code": "TLG"
+        },
+        {
+            "code": "TLM"
+        },
+        {
+            "code": "TLS"
+        },
+        {
+            "code": "TLT"
+        },
+        {
+            "code": "TLX"
+        },
+        {
+            "code": "TMG"
+        },
+        {
+            "code": "TMH"
+        },
+        {
+            "code": "TMK"
+        },
+        {
+            "code": "TML"
+        },
+        {
+            "code": "TMR"
+        },
+        {
+            "code": "TMT"
+        },
+        {
+            "code": "TMX"
+        },
+        {
+            "code": "TMZ"
+        },
+        {
+            "code": "TNE"
+        },
+        {
+            "code": "TNG"
+        },
+        {
+            "code": "TNK"
+        },
+        {
+            "code": "TNP"
+        },
+        {
+            "code": "TNR"
+        },
+        {
+            "code": "TNT"
+        },
+        {
+            "code": "TNY"
+        },
+        {
+            "code": "TOE"
+        },
+        {
+            "code": "TOM"
+        },
+        {
+            "code": "TON"
+        },
+        {
+            "code": "TOP"
+        },
+        {
+            "code": "TOT"
+        },
+        {
+            "code": "TOU"
+        },
+        {
+            "code": "TPC"
+        },
+        {
+            "code": "TPD"
+        },
+        {
+            "code": "TPG"
+        },
+        {
+            "code": "TPO"
+        },
+        {
+            "code": "TPP"
+        },
+        {
+            "code": "TPS"
+        },
+        {
+            "code": "TPW"
+        },
+        {
+            "code": "TRA"
+        },
+        {
+            "code": "TRL"
+        },
+        {
+            "code": "TRM"
+        },
+        {
+            "code": "TRS"
+        },
+        {
+            "code": "TRT"
+        },
+        {
+            "code": "TRY"
+        },
+        {
+            "code": "TSC"
+        },
+        {
+            "code": "TSI"
+        },
+        {
+            "code": "TSL"
+        },
+        {
+            "code": "TSO"
+        },
+        {
+            "code": "TTA"
+        },
+        {
+            "code": "TTB"
+        },
+        {
+            "code": "TTI"
+        },
+        {
+            "code": "TTL"
+        },
+        {
+            "code": "TTM"
+        },
+        {
+            "code": "TTT"
+        },
+        {
+            "code": "TUA"
+        },
+        {
+            "code": "TV2"
+        },
+        {
+            "code": "TWD"
+        },
+        {
+            "code": "TWE"
+        },
+        {
+            "code": "TWR"
+        },
+        {
+            "code": "TYM"
+        },
+        {
+            "code": "TYR"
+        },
+        {
+            "code": "TYX"
+        },
+        {
+            "code": "TZL"
+        },
+        {
+            "code": "TZN"
+        },
+        {
+            "code": "UBI"
+        },
+        {
+            "code": "UBN"
+        },
+        {
+            "code": "UCM"
+        },
+        {
+            "code": "UCW"
+        },
+        {
+            "code": "UMAX"
+        },
+        {
+            "code": "UMG"
+        },
+        {
+            "code": "UNI"
+        },
+        {
+            "code": "UOS"
+        },
+        {
+            "code": "URF"
+        },
+        {
+            "code": "URW"
+        },
+        {
+            "code": "USD"
+        },
+        {
+            "code": "UUL"
+        },
+        {
+            "code": "UUV"
+        },
+        {
+            "code": "UWL"
+        },
+        {
+            "code": "VACF"
+        },
+        {
+            "code": "VAE"
+        },
+        {
+            "code": "VAF"
+        },
+        {
+            "code": "VAL"
+        },
+        {
+            "code": "VAN"
+        },
+        {
+            "code": "VAP"
+        },
+        {
+            "code": "VAR"
+        },
+        {
+            "code": "VAS"
+        },
+        {
+            "code": "VBC"
+        },
+        {
+            "code": "VBND"
+        },
+        {
+            "code": "VBS"
+        },
+        {
+            "code": "VCF"
+        },
+        {
+            "code": "VCX"
+        },
+        {
+            "code": "VDBA"
+        },
+        {
+            "code": "VDCO"
+        },
+        {
+            "code": "VDGR"
+        },
+        {
+            "code": "VDHG"
+        },
+        {
+            "code": "VEA"
+        },
+        {
+            "code": "VEC"
+        },
+        {
+            "code": "VEE"
+        },
+        {
+            "code": "VEFI"
+        },
+        {
+            "code": "VEN"
+        },
+        {
+            "code": "VEQ"
+        },
+        {
+            "code": "VESG"
+        },
+        {
+            "code": "VEU"
+        },
+        {
+            "code": "VG1"
+        },
+        {
+            "code": "VG8"
+        },
+        {
+            "code": "VGAD"
+        },
+        {
+            "code": "VGB"
+        },
+        {
+            "code": "VGE"
+        },
+        {
+            "code": "VGI"
+        },
+        {
+            "code": "VGL"
+        },
+        {
+            "code": "VGMF"
+        },
+        {
+            "code": "VGS"
+        },
+        {
+            "code": "VHT"
+        },
+        {
+            "code": "VHY"
+        },
+        {
+            "code": "VIA"
+        },
+        {
+            "code": "VIC"
+        },
+        {
+            "code": "VIF"
+        },
+        {
+            "code": "VIG"
+        },
+        {
+            "code": "VII"
+        },
+        {
+            "code": "VIP"
+        },
+        {
+            "code": "VISM"
+        },
+        {
+            "code": "VKA"
+        },
+        {
+            "code": "VLC"
+        },
+        {
+            "code": "VLS"
+        },
+        {
+            "code": "VMC"
+        },
+        {
+            "code": "VMG"
+        },
+        {
+            "code": "VMIN"
+        },
+        {
+            "code": "VML"
+        },
+        {
+            "code": "VMS"
+        },
+        {
+            "code": "VMT"
+        },
+        {
+            "code": "VMX"
+        },
+        {
+            "code": "VMY"
+        },
+        {
+            "code": "VN8"
+        },
+        {
+            "code": "VOC"
+        },
+        {
+            "code": "VOL"
+        },
+        {
+            "code": "VOR"
+        },
+        {
+            "code": "VP7"
+        },
+        {
+            "code": "VPC"
+        },
+        {
+            "code": "VPR"
+        },
+        {
+            "code": "VR1"
+        },
+        {
+            "code": "VR8"
+        },
+        {
+            "code": "VRC"
+        },
+        {
+            "code": "VRL"
+        },
+        {
+            "code": "VRS"
+        },
+        {
+            "code": "VRT"
+        },
+        {
+            "code": "VRX"
+        },
+        {
+            "code": "VSO"
+        },
+        {
+            "code": "VTG"
+        },
+        {
+            "code": "VTH"
+        },
+        {
+            "code": "VTI"
+        },
+        {
+            "code": "VTS"
+        },
+        {
+            "code": "VUK"
+        },
+        {
+            "code": "VUL"
+        },
+        {
+            "code": "VVA"
+        },
+        {
+            "code": "VVLU"
+        },
+        {
+            "code": "VXR"
+        },
+        {
+            "code": "VYS"
+        },
+        {
+            "code": "WAA"
+        },
+        {
+            "code": "WAF"
+        },
+        {
+            "code": "WAK"
+        },
+        {
+            "code": "WAM"
+        },
+        {
+            "code": "WAT"
+        },
+        {
+            "code": "WAX"
+        },
+        {
+            "code": "WBC"
+        },
+        {
+            "code": "WBE"
+        },
+        {
+            "code": "WBT"
+        },
+        {
+            "code": "WC8"
+        },
+        {
+            "code": "WCG"
+        },
+        {
+            "code": "WCMQ"
+        },
+        {
+            "code": "WCN"
+        },
+        {
+            "code": "WDIV"
+        },
+        {
+            "code": "WDMF"
+        },
+        {
+            "code": "WEB"
+        },
+        {
+            "code": "WEC"
+        },
+        {
+            "code": "WEL"
+        },
+        {
+            "code": "WEMG"
+        },
+        {
+            "code": "WES"
+        },
+        {
+            "code": "WFL"
+        },
+        {
+            "code": "WGB"
+        },
+        {
+            "code": "WGN"
+        },
+        {
+            "code": "WGO"
+        },
+        {
+            "code": "WGX"
+        },
+        {
+            "code": "WHA"
+        },
+        {
+            "code": "WHC"
+        },
+        {
+            "code": "WHF"
+        },
+        {
+            "code": "WHK"
+        },
+        {
+            "code": "WIC"
+        },
+        {
+            "code": "WJA"
+        },
+        {
+            "code": "WKT"
+        },
+        {
+            "code": "WLD"
+        },
+        {
+            "code": "WLE"
+        },
+        {
+            "code": "WMA"
+        },
+        {
+            "code": "WMI"
+        },
+        {
+            "code": "WML"
+        },
+        {
+            "code": "WMX"
+        },
+        {
+            "code": "WNB"
+        },
+        {
+            "code": "WNR"
+        },
+        {
+            "code": "WOA"
+        },
+        {
+            "code": "WOR"
+        },
+        {
+            "code": "WOW"
+        },
+        {
+            "code": "WPL"
+        },
+        {
+            "code": "WPP"
+        },
+        {
+            "code": "WPR"
+        },
+        {
+            "code": "WQG"
+        },
+        {
+            "code": "WRLD"
+        },
+        {
+            "code": "WRM"
+        },
+        {
+            "code": "WSA"
+        },
+        {
+            "code": "WSI"
+        },
+        {
+            "code": "WSP"
+        },
+        {
+            "code": "WSR"
+        },
+        {
+            "code": "WTC"
+        },
+        {
+            "code": "WTL"
+        },
+        {
+            "code": "WVOL"
+        },
+        {
+            "code": "WWG"
+        },
+        {
+            "code": "WWI"
+        },
+        {
+            "code": "WXHG"
+        },
+        {
+            "code": "WXOZ"
+        },
+        {
+            "code": "WZR"
+        },
+        {
+            "code": "XAM"
+        },
+        {
+            "code": "XARO"
+        },
+        {
+            "code": "XF1"
+        },
+        {
+            "code": "XPE"
+        },
+        {
+            "code": "XPL"
+        },
+        {
+            "code": "XRF"
+        },
+        {
+            "code": "XRO"
+        },
+        {
+            "code": "XST"
+        },
+        {
+            "code": "XTC"
+        },
+        {
+            "code": "XTE"
+        },
+        {
+            "code": "YAL"
+        },
+        {
+            "code": "YANK"
+        },
+        {
+            "code": "YBR"
+        },
+        {
+            "code": "YFZ"
+        },
+        {
+            "code": "YMAX"
+        },
+        {
+            "code": "YOJ"
+        },
+        {
+            "code": "YOW"
+        },
+        {
+            "code": "YPB"
+        },
+        {
+            "code": "YRL"
+        },
+        {
+            "code": "Z1P"
+        },
+        {
+            "code": "ZBT"
+        },
+        {
+            "code": "ZEL"
+        },
+        {
+            "code": "ZEO"
+        },
+        {
+            "code": "ZER"
+        },
+        {
+            "code": "ZEU"
+        },
+        {
+            "code": "ZGL"
+        },
+        {
+            "code": "ZIM"
+        },
+        {
+            "code": "ZLD"
+        },
+        {
+            "code": "ZMI"
+        },
+        {
+            "code": "ZNC"
+        },
+        {
+            "code": "ZNO"
+        },
+        {
+            "code": "ZUSD"
+        },
+        {
+            "code": "ZYAU"
+        },
+        {
+            "code": "ZYUS"
+        }
+    ]
+}
