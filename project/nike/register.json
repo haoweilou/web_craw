@@ -1,0 +1,23 @@
+{
+    "country": "AU",
+    "emailOnly": false,
+    "firstName": "ss",
+    "gender": "M",
+    "lastName": "ss",
+    "locale": "en_AU",
+    "password": "Wu123456",
+    "receiveEmail": false,
+    "registrationSiteId": "nikedotcom",
+    "welcomeEmailTemplate": "",
+    "emailAddress": "123456789@12534.com",
+    "ssn": null,
+    "username": "123456789@12534.com",
+    "account": {
+        "email": "123456789@12534.com",
+        "passwordSettings": {
+            "password": "Wu123456",
+            "passwordConfirm": "Wu123456"
+        }
+    },
+    "dateOfBirth": "1999-02-08"
+}
