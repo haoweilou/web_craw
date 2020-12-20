@@ -1,5 +1,4 @@
 import re
-from numpy.core.numeric import outer
 import requests
 import json
 from datetime import datetime, timedelta
@@ -86,18 +85,20 @@ class StockSubscriber():
     
     def multithreadUpdate(self,section):
         codes = self.getCodeForSection(section)
-        #codes_1 = codes[:len(codes)//2]
-        #codes_2 = codes[len(codes)//2:]
         print(len(codes))
-        pool = Pool(3)
+        pool = Pool(4)
         pool.map(self.getPrices,codes)
+        pool.close()
+        pool.join()
         print("")
         while(self.incorrec!=[] and len(self.incorrec) > 6):
             print(f"{len(self.incorrec)} exists")
             codes = self.incorrec.copy()
             self.incorrec = []
-            pool = Pool(3)
+            pool = Pool(10)
             pool.map(self.getPrices,codes)
+            pool.close()
+            pool.join()
             print("")
         self.incorrec = []
 
