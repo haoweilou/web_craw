@@ -8,7 +8,6 @@ url = "https://www.pearvideo.com/video_1712055"
 bro.get(url)
 #get current source code for current page
 page_text = bro.page_source
-bro.quit()
 
 video_url = etree.HTML(page_text)
 url = video_url.xpath('//*[@id="JprismPlayer"]/video/@src')[0]
