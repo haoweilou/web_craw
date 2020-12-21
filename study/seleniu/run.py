@@ -1,7 +1,7 @@
 from selenium import webdriver
 from lxml import etree
 import requests
-bro = webdriver.Chrome(executable_path="chromedriver.exe")
+bro = webdriver.Chrome(executable_path="../../chromedriver.exe")
 main_page = "https://www.pearvideo.com/category_5"
 url = "https://www.pearvideo.com/video_1712055"
 #let chrome send request for given url
